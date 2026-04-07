@@ -1,0 +1,4628 @@
+[
+  {
+    "txn_id": "f1525ab4-5234-45f1-8e4c-11705c3edc3b",
+    "from_account": "MXM10018",
+    "to_account": "TGT26561",
+    "amount": 1160.79,
+    "channel": "ACH",
+    "timestamp": 1700273273.1542482,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8b450ea1-4d60-433a-acdd-21cfe97dacaf",
+    "from_account": "MXH10010",
+    "to_account": "TGT27160",
+    "amount": 1938.26,
+    "channel": "ACH",
+    "timestamp": 1700301406.733877,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4f5c2d78-ef03-4591-97e7-2c4444afb2ba",
+    "from_account": "MXH10002",
+    "to_account": "EXT92103",
+    "amount": 896.95,
+    "channel": "P2P",
+    "timestamp": 1700292874.1014564,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b81da826-ef4c-4ef9-8e4e-0064b7e4340b",
+    "from_account": "MUL40180",
+    "to_account": "MUL62950",
+    "amount": 4735.36,
+    "channel": "ACH",
+    "timestamp": 1700003949.8772855,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0eb2dfa5-968b-4f42-b32a-cbefeb4cd705",
+    "from_account": "MXL10009",
+    "to_account": "EXT61729",
+    "amount": 459.6,
+    "channel": "ATM",
+    "timestamp": 1700081734.3713853,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ef1a7edb-c9cb-4f66-a9ef-5a06839f1dad",
+    "from_account": "BOT12702",
+    "to_account": "EXT50304",
+    "amount": 181.34,
+    "channel": "WIRE",
+    "timestamp": 1700006714.5197809,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "05b86a1d-707b-46d5-a33f-546da97d2458",
+    "from_account": "MXH10009",
+    "to_account": "TGT43582",
+    "amount": 3339.05,
+    "channel": "WIRE",
+    "timestamp": 1700300278.6765158,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "df5c0872-2209-49d4-9b52-cb68b4bf179f",
+    "from_account": "MXH10009",
+    "to_account": "EXT44708",
+    "amount": 2585.18,
+    "channel": "WIRE",
+    "timestamp": 1700300295.044466,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0d5385fe-1a9d-4440-a508-d5da4aa636f3",
+    "from_account": "MXM10018",
+    "to_account": "TGT99759",
+    "amount": 2854.53,
+    "channel": "P2P",
+    "timestamp": 1700273670.975051,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f070f22d-05bf-4dcf-bda2-4013a2b37fc2",
+    "from_account": "MXL10004",
+    "to_account": "EXT27126",
+    "amount": 1290.98,
+    "channel": "WIRE",
+    "timestamp": 1700042883.1471384,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3e30f44c-ce0f-4612-9bf7-eeec3db1bfe7",
+    "from_account": "MXH10017",
+    "to_account": "TGT65195",
+    "amount": 4196.23,
+    "channel": "P2P",
+    "timestamp": 1700308960.1374166,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1c493b89-0443-42c5-b866-00ece7ebabe2",
+    "from_account": "MXM10023",
+    "to_account": "TGT62961",
+    "amount": 1776.19,
+    "channel": "ATM",
+    "timestamp": 1700287219.6801784,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f3a48f70-62de-4f4d-8e1c-902bdb8dd684",
+    "from_account": "MXM10020",
+    "to_account": "EXT50304",
+    "amount": 2311.96,
+    "channel": "P2P",
+    "timestamp": 1700278686.4863465,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "62bf1789-2f35-46d9-8525-aa973757f696",
+    "from_account": "MXH10009",
+    "to_account": "TGT62961",
+    "amount": 3724.01,
+    "channel": "WIRE",
+    "timestamp": 1700300830.7157836,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b9060831-9de1-481b-ae64-3f00ff5416eb",
+    "from_account": "MXH10010",
+    "to_account": "TGT88599",
+    "amount": 2788.93,
+    "channel": "WIRE",
+    "timestamp": 1700301469.8410962,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "41e798a8-f6fe-4c7f-ac26-460b3ea2aef0",
+    "from_account": "SRC67425",
+    "to_account": "TGT48408",
+    "amount": 497.77,
+    "channel": "P2P",
+    "timestamp": 1700005164.9518542,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3d67d8bb-83ea-4846-ace0-fab32b068b4f",
+    "from_account": "MXH10006",
+    "to_account": "TGT65195",
+    "amount": 4953.72,
+    "channel": "WIRE",
+    "timestamp": 1700296965.785846,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "eacd482c-f9ef-446d-b769-217a00e2d6c5",
+    "from_account": "MXH10012",
+    "to_account": "TGT88599",
+    "amount": 4726.0,
+    "channel": "P2P",
+    "timestamp": 1700303473.3628232,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "27bfa443-27ec-4aff-aec7-a6331978df6d",
+    "from_account": "SRC17261",
+    "to_account": "TGT27160",
+    "amount": 485.94,
+    "channel": "ACH",
+    "timestamp": 1700004680.3234093,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e77a9b32-9960-415a-8bde-aa38f459e148",
+    "from_account": "BOT12702",
+    "to_account": "EXT53130",
+    "amount": 189.84,
+    "channel": "ATM",
+    "timestamp": 1700006603.970111,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7c5d6c97-e2be-4366-901d-53c02108e49d",
+    "from_account": "MXL10018",
+    "to_account": "LAY96056",
+    "amount": 805.54,
+    "channel": "P2P",
+    "timestamp": 1700141805.3861873,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d7988487-8f9c-4a06-a9c6-f47a8ef7896d",
+    "from_account": "MXH10013",
+    "to_account": "LAY10474",
+    "amount": 1955.31,
+    "channel": "ATM",
+    "timestamp": 1700304690.9168437,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "187a3eee-582d-4e29-9995-9b206515fdf3",
+    "from_account": "MXH10009",
+    "to_account": "EXT14189",
+    "amount": 2495.47,
+    "channel": "ATM",
+    "timestamp": 1700300858.7875261,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c63468af-a65f-4ba0-b615-aef30e2ee19e",
+    "from_account": "MXH10000",
+    "to_account": "TGT37713",
+    "amount": 3400.01,
+    "channel": "P2P",
+    "timestamp": 1700290601.4650373,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "42a9a1d3-4abe-4def-8214-ebfc55d4b31e",
+    "from_account": "MXM10011",
+    "to_account": "EXT14189",
+    "amount": 817.95,
+    "channel": "ATM",
+    "timestamp": 1700253147.2996578,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "be834cf5-1f23-4931-9722-57bdb32127b6",
+    "from_account": "MXH10000",
+    "to_account": "EXT64627",
+    "amount": 1116.65,
+    "channel": "WIRE",
+    "timestamp": 1700290689.6662877,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8e9f9479-39eb-461c-acb5-980349ed02fd",
+    "from_account": "MXL10018",
+    "to_account": "LAY10474",
+    "amount": 750.61,
+    "channel": "CARD",
+    "timestamp": 1700141703.8472269,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8a4d61f9-2727-4345-9aba-995aec34d02b",
+    "from_account": "MXM10024",
+    "to_account": "LAY75753",
+    "amount": 2887.34,
+    "channel": "ATM",
+    "timestamp": 1700289554.620483,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1fcc256f-747c-4405-91e5-8cb8a8eb1ec6",
+    "from_account": "MXH10001",
+    "to_account": "EXT53130",
+    "amount": 1455.65,
+    "channel": "CARD",
+    "timestamp": 1700291800.5111797,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0ea79352-fd70-4f18-9fcf-f43c0ad154d7",
+    "from_account": "MXH10018",
+    "to_account": "TGT19132",
+    "amount": 1577.38,
+    "channel": "ACH",
+    "timestamp": 1700310493.688796,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f8c9e5f2-0bc4-486e-a424-dba7ddb8884d",
+    "from_account": "MXL10003",
+    "to_account": "TGT62961",
+    "amount": 978.53,
+    "channel": "CARD",
+    "timestamp": 1700035966.4089243,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b1134819-a944-42a1-be49-9069de8a4c24",
+    "from_account": "BOT12702",
+    "to_account": "EXT92103",
+    "amount": 189.67,
+    "channel": "ATM",
+    "timestamp": 1700006669.9533222,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2910a7ef-69d7-4466-877f-96e4a08406c7",
+    "from_account": "MXH10003",
+    "to_account": "LAY24723",
+    "amount": 3445.45,
+    "channel": "CARD",
+    "timestamp": 1700293845.1439567,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d0a8eafa-4105-4ef2-8dac-377012f7f868",
+    "from_account": "MXH10012",
+    "to_account": "TGT48408",
+    "amount": 1726.06,
+    "channel": "CARD",
+    "timestamp": 1700303310.8015063,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "628c5916-e8e0-4475-86d4-1efc1939eb08",
+    "from_account": "MXH10006",
+    "to_account": "MUL33281",
+    "amount": 3304.22,
+    "channel": "ACH",
+    "timestamp": 1700297458.9453297,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e1fa4a27-a15f-444f-932b-49a56a7a2e0b",
+    "from_account": "MXH10017",
+    "to_account": "TGT43582",
+    "amount": 1575.13,
+    "channel": "WIRE",
+    "timestamp": 1700309343.7342446,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5bec3701-ff9f-4361-a203-f4ca9952b40c",
+    "from_account": "MXH10008",
+    "to_account": "EXT61729",
+    "amount": 647.12,
+    "channel": "ACH",
+    "timestamp": 1700299277.4648094,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9d72d4aa-46c9-4c2d-b7d4-b281e92c4491",
+    "from_account": "MXM10003",
+    "to_account": "LAY10474",
+    "amount": 478.63,
+    "channel": "P2P",
+    "timestamp": 1700231010.0033238,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a9d95ec3-d08e-4cd3-8339-49de3afb7b8b",
+    "from_account": "MXH10008",
+    "to_account": "MUL33281",
+    "amount": 4320.26,
+    "channel": "WIRE",
+    "timestamp": 1700299340.4690716,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b2fdc5b5-8aef-49c2-b8ed-04a84eecd4ba",
+    "from_account": "MXH10007",
+    "to_account": "EXT86088",
+    "amount": 3337.66,
+    "channel": "WIRE",
+    "timestamp": 1700298230.1244278,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "98578da9-2c75-4b11-b950-352ec978a2ef",
+    "from_account": "MXM10012",
+    "to_account": "LAY96056",
+    "amount": 438.93,
+    "channel": "WIRE",
+    "timestamp": 1700256175.769799,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c2a7747c-4185-495f-a77a-1e80490ef0b0",
+    "from_account": "MXL10022",
+    "to_account": "EXT83037",
+    "amount": 1069.9,
+    "channel": "ATM",
+    "timestamp": 1700167700.545334,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3e52ceac-86f4-4735-a9ba-6daaa799406c",
+    "from_account": "MXH10003",
+    "to_account": "MUL33281",
+    "amount": 4148.15,
+    "channel": "ACH",
+    "timestamp": 1700294384.9214036,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b8150ae6-2296-4024-bc87-1ef3fb8ebcaa",
+    "from_account": "MXH10002",
+    "to_account": "TGT27160",
+    "amount": 3148.28,
+    "channel": "ATM",
+    "timestamp": 1700292555.617319,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ba5000a6-340e-470a-95f2-dc1ba6cee11b",
+    "from_account": "MXM10010",
+    "to_account": "EXT50304",
+    "amount": 1949.5,
+    "channel": "WIRE",
+    "timestamp": 1700250697.2532384,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "90cbbcf5-2c98-42d9-bfd6-17c164678584",
+    "from_account": "MXH10018",
+    "to_account": "LAY75753",
+    "amount": 4517.53,
+    "channel": "ACH",
+    "timestamp": 1700310718.7921216,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a8928619-e04d-44a6-9594-06d1accc09a4",
+    "from_account": "MXM10014",
+    "to_account": "TGT89696",
+    "amount": 1069.32,
+    "channel": "CARD",
+    "timestamp": 1700261289.9459982,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "892bb6d3-6155-47af-aafe-edaa0e9d34a3",
+    "from_account": "MXM10007",
+    "to_account": "MUL33435",
+    "amount": 1166.14,
+    "channel": "WIRE",
+    "timestamp": 1700241835.5947423,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7212d4a0-2b46-4d2d-b5fc-b3330a4b7429",
+    "from_account": "MXM10011",
+    "to_account": "TGT99759",
+    "amount": 954.6,
+    "channel": "WIRE",
+    "timestamp": 1700252796.3392944,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "81226e51-1d38-491e-bd4b-7e50f3633c15",
+    "from_account": "MXH10004",
+    "to_account": "EXT70400",
+    "amount": 4125.74,
+    "channel": "WIRE",
+    "timestamp": 1700295189.865966,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cc740dc7-7827-4f6a-98b2-39f1073d31d2",
+    "from_account": "LAY24723",
+    "to_account": "LAY75753",
+    "amount": 43447.85,
+    "channel": "P2P",
+    "timestamp": 1700006196.589721,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bc0fbfb9-1ef6-4db0-92f6-23c4a2589c52",
+    "from_account": "MXH10013",
+    "to_account": "EXT23121",
+    "amount": 2121.12,
+    "channel": "ATM",
+    "timestamp": 1700305002.205927,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2f4c4e54-887e-4196-a2ff-0f807e96553a",
+    "from_account": "MXM10023",
+    "to_account": "LAY79697",
+    "amount": 1527.56,
+    "channel": "CARD",
+    "timestamp": 1700287475.200385,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e58779e5-03e8-4311-8f4a-80d3fe1faf7c",
+    "from_account": "MXH10001",
+    "to_account": "EXT14189",
+    "amount": 1261.94,
+    "channel": "ACH",
+    "timestamp": 1700291569.4212387,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b72ffc25-9fb2-496c-a10d-7e438e7c3523",
+    "from_account": "MXH10003",
+    "to_account": "EXT87071",
+    "amount": 4245.02,
+    "channel": "ATM",
+    "timestamp": 1700293789.1992474,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "60b52969-e1a0-4c9e-85f0-302afe3f64b8",
+    "from_account": "MXM10006",
+    "to_account": "EXT83037",
+    "amount": 541.93,
+    "channel": "CARD",
+    "timestamp": 1700238582.4004579,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "17266257-32ef-40f0-9329-5646ba56b6f9",
+    "from_account": "MXM10012",
+    "to_account": "EXT61729",
+    "amount": 2712.98,
+    "channel": "ACH",
+    "timestamp": 1700256271.0619109,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a453974b-55cf-45ef-8c02-8b5be146498e",
+    "from_account": "MXH10006",
+    "to_account": "EXT23121",
+    "amount": 2297.83,
+    "channel": "ATM",
+    "timestamp": 1700297081.9441183,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "697ab01f-52f4-4329-9016-6a1046db2eb2",
+    "from_account": "MXH10014",
+    "to_account": "EXT61729",
+    "amount": 2932.82,
+    "channel": "CARD",
+    "timestamp": 1700305754.2984087,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "51041ebf-6454-4647-bf19-af3014b1cc58",
+    "from_account": "MXH10017",
+    "to_account": "SRC17261",
+    "amount": 2332.22,
+    "channel": "WIRE",
+    "timestamp": 1700309148.676457,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4f38356e-ef39-40f3-819d-8387b931b22e",
+    "from_account": "MXH10017",
+    "to_account": "MUL33435",
+    "amount": 4201.54,
+    "channel": "CARD",
+    "timestamp": 1700309313.0221498,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1cc36563-a4d8-412f-9746-df59ff67efc7",
+    "from_account": "MXH10007",
+    "to_account": "LAY75753",
+    "amount": 4923.93,
+    "channel": "ACH",
+    "timestamp": 1700298102.6325395,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f71d2db0-dff7-439c-8a7d-c5b67700f5d2",
+    "from_account": "MXH10017",
+    "to_account": "TGT75948",
+    "amount": 4216.26,
+    "channel": "WIRE",
+    "timestamp": 1700309220.433582,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "474e932b-3b6d-4bef-9be6-bfb0e2c4b5d4",
+    "from_account": "MXM10019",
+    "to_account": "EXT85354",
+    "amount": 2591.26,
+    "channel": "P2P",
+    "timestamp": 1700275388.613841,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "fd03cbd1-2d0c-45a4-9e36-092d5e538df5",
+    "from_account": "MXM10018",
+    "to_account": "EXT83037",
+    "amount": 1903.61,
+    "channel": "P2P",
+    "timestamp": 1700273224.2688663,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4fc7a556-76ff-49ea-8cf4-2a9626bdfa20",
+    "from_account": "MXH10006",
+    "to_account": "TGT37713",
+    "amount": 1186.03,
+    "channel": "ATM",
+    "timestamp": 1700297263.4643335,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "83d68c77-969b-40fa-8e51-a5a960609419",
+    "from_account": "MXM10007",
+    "to_account": "MUL33435",
+    "amount": 730.89,
+    "channel": "WIRE",
+    "timestamp": 1700242140.2288027,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e0dae671-4a79-4504-8209-5bf8bba3933d",
+    "from_account": "BOT12702",
+    "to_account": "EXT87071",
+    "amount": 206.2,
+    "channel": "P2P",
+    "timestamp": 1700006710.3993073,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a8086da6-93e4-42e7-a37d-8d31f523f0e8",
+    "from_account": "MXH10009",
+    "to_account": "EXT14189",
+    "amount": 2236.07,
+    "channel": "CARD",
+    "timestamp": 1700300559.0260053,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1eec36f6-0cda-4450-8a33-3f58921ba012",
+    "from_account": "MXH10012",
+    "to_account": "MUL88569",
+    "amount": 3909.47,
+    "channel": "ACH",
+    "timestamp": 1700303928.605418,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2588ed86-ce12-4ce3-9da9-9b77ab34bbf7",
+    "from_account": "BOT12702",
+    "to_account": "EXT68530",
+    "amount": 206.14,
+    "channel": "P2P",
+    "timestamp": 1700006619.3330545,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0967fd0f-0175-46c0-9a6f-94736ec2b8f3",
+    "from_account": "MXM10000",
+    "to_account": "LAY96056",
+    "amount": 2753.64,
+    "channel": "CARD",
+    "timestamp": 1700223098.6109285,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1ceb40e0-f67e-4610-80e0-18d7168f91c6",
+    "from_account": "MXH10014",
+    "to_account": "TGT75948",
+    "amount": 1282.29,
+    "channel": "ATM",
+    "timestamp": 1700305645.299207,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "12454598-3685-4ee5-bb69-1e51b461de82",
+    "from_account": "MXM10003",
+    "to_account": "TGT62961",
+    "amount": 2790.18,
+    "channel": "ATM",
+    "timestamp": 1700230822.1278136,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8ed8a399-be7e-42d3-b75e-82f1a5385719",
+    "from_account": "SRC17261",
+    "to_account": "TGT26561",
+    "amount": 471.91,
+    "channel": "P2P",
+    "timestamp": 1700004654.2420692,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e59165b0-8b01-47e1-99c5-7d89ba92f643",
+    "from_account": "MXM10024",
+    "to_account": "LAY96056",
+    "amount": 515.25,
+    "channel": "CARD",
+    "timestamp": 1700289605.8699877,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3eca2df8-7224-4694-ae6c-bd8dcdcb29f0",
+    "from_account": "MXH10003",
+    "to_account": "TGT72534",
+    "amount": 4329.61,
+    "channel": "ATM",
+    "timestamp": 1700293671.4961388,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "07e69dbb-920a-4985-8a58-1b6486f7a0a5",
+    "from_account": "MXH10009",
+    "to_account": "EXT44708",
+    "amount": 1269.5,
+    "channel": "CARD",
+    "timestamp": 1700300385.9369586,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "285d5e3c-2dc1-4ac4-8d02-95cfedc2ed9f",
+    "from_account": "MXM10007",
+    "to_account": "BOT12702",
+    "amount": 2601.75,
+    "channel": "CARD",
+    "timestamp": 1700241969.7278209,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0bc3a50b-8a9d-409f-b898-573eceee5b67",
+    "from_account": "MXM10020",
+    "to_account": "EXT58395",
+    "amount": 1101.08,
+    "channel": "ATM",
+    "timestamp": 1700278497.3389082,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ebd3b911-5ceb-46cb-ab82-72ecf8231e69",
+    "from_account": "MXL10019",
+    "to_account": "TGT75948",
+    "amount": 931.76,
+    "channel": "ACH",
+    "timestamp": 1700147679.7048917,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3d3d839e-0775-49c0-93ff-56d9e1a7de77",
+    "from_account": "MXH10013",
+    "to_account": "EXT26838",
+    "amount": 1448.72,
+    "channel": "P2P",
+    "timestamp": 1700304726.6963131,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "db9d2234-900c-4474-8d12-0e3e31ef0d25",
+    "from_account": "MXM10005",
+    "to_account": "TGT62961",
+    "amount": 571.76,
+    "channel": "P2P",
+    "timestamp": 1700235907.2771926,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "337c2ebe-3df8-44c9-8edc-04889aa7e466",
+    "from_account": "MXH10019",
+    "to_account": "MUL88569",
+    "amount": 2890.01,
+    "channel": "CARD",
+    "timestamp": 1700312165.4740114,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "684ee296-593e-4942-9f81-c6b1aede6768",
+    "from_account": "MXM10017",
+    "to_account": "EXT58395",
+    "amount": 2477.88,
+    "channel": "CARD",
+    "timestamp": 1700270363.0860171,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "566cf0b6-a3db-4992-b4d2-a3708ca0ad33",
+    "from_account": "MXL10004",
+    "to_account": "EXT70400",
+    "amount": 605.87,
+    "channel": "CARD",
+    "timestamp": 1700042781.8226368,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8a820d91-c0f2-4f21-80d4-9496ab5a1625",
+    "from_account": "MXH10014",
+    "to_account": "TGT99759",
+    "amount": 1323.29,
+    "channel": "CARD",
+    "timestamp": 1700305826.334653,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e7213531-07a5-468b-8df2-12f94876a192",
+    "from_account": "MXH10005",
+    "to_account": "EXT83037",
+    "amount": 4806.96,
+    "channel": "ACH",
+    "timestamp": 1700296236.4238539,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "33dea193-e8d4-4fcc-81b3-3518fd18af9d",
+    "from_account": "MXH10002",
+    "to_account": "MUL33435",
+    "amount": 2718.96,
+    "channel": "ACH",
+    "timestamp": 1700292628.2962446,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "33a28c85-8b7b-496f-be30-21cbd5fca179",
+    "from_account": "MXH10013",
+    "to_account": "EXT27126",
+    "amount": 2660.01,
+    "channel": "ATM",
+    "timestamp": 1700304800.191909,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ec0870f3-2f8a-47e5-82fd-c7a295995b34",
+    "from_account": "SRC67425",
+    "to_account": "TGT52021",
+    "amount": 486.67,
+    "channel": "CARD",
+    "timestamp": 1700005183.0842237,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "51c7f48a-5132-404c-8410-fe4529cc270d",
+    "from_account": "MXH10012",
+    "to_account": "EXT83037",
+    "amount": 4017.37,
+    "channel": "WIRE",
+    "timestamp": 1700303391.7543774,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "218be2d0-c06d-4672-b1aa-de9dea418a88",
+    "from_account": "SRC67425",
+    "to_account": "TGT43582",
+    "amount": 494.17,
+    "channel": "CARD",
+    "timestamp": 1700005138.562193,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9b3f8986-9654-4cc6-a058-195e4035fd5b",
+    "from_account": "MXH10001",
+    "to_account": "TGT62961",
+    "amount": 2252.83,
+    "channel": "WIRE",
+    "timestamp": 1700291532.1635637,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "67d2842e-beef-4c00-8dca-a227b09b9249",
+    "from_account": "MXL10001",
+    "to_account": "TGT62961",
+    "amount": 379.59,
+    "channel": "ATM",
+    "timestamp": 1700023122.4120774,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0702879a-2e6c-44bc-9d93-3c727c898b9e",
+    "from_account": "MXH10000",
+    "to_account": "TGT62961",
+    "amount": 3537.33,
+    "channel": "WIRE",
+    "timestamp": 1700290478.0242844,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bbc9c6d5-46a0-4e6f-bf76-ea9fff613449",
+    "from_account": "MXH10003",
+    "to_account": "EXT87071",
+    "amount": 1559.83,
+    "channel": "ATM",
+    "timestamp": 1700294134.4321134,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5904d62f-d2d4-4c62-b3ce-df368fec1dce",
+    "from_account": "MXH10013",
+    "to_account": "TGT72409",
+    "amount": 1433.06,
+    "channel": "ATM",
+    "timestamp": 1700304740.238568,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7357f36c-da6d-4d9f-acfc-6693e70a4a7e",
+    "from_account": "MXH10014",
+    "to_account": "TGT48408",
+    "amount": 1690.98,
+    "channel": "WIRE",
+    "timestamp": 1700305451.8913321,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e7129b4d-2aee-4999-8c9e-cc87e4f9ba10",
+    "from_account": "MXH10019",
+    "to_account": "TGT72409",
+    "amount": 1882.68,
+    "channel": "ATM",
+    "timestamp": 1700311600.5156004,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a4a5b99c-28be-4695-9543-4ac69194d3ff",
+    "from_account": "SRC67425",
+    "to_account": "TGT65195",
+    "amount": 476.38,
+    "channel": "ACH",
+    "timestamp": 1700005128.0667987,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ccccab9e-8ade-462b-b6df-5eec402ae939",
+    "from_account": "MXH10016",
+    "to_account": "TGT43582",
+    "amount": 1024.3,
+    "channel": "ACH",
+    "timestamp": 1700308029.708929,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "551e3321-3e3f-487a-9d25-60f5fcaaff5e",
+    "from_account": "MXH10002",
+    "to_account": "SRC67425",
+    "amount": 1750.34,
+    "channel": "ATM",
+    "timestamp": 1700292990.8230855,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f8f70a9c-9b9d-4768-9882-1291842770bb",
+    "from_account": "MXM10022",
+    "to_account": "LAY96056",
+    "amount": 2618.42,
+    "channel": "ATM",
+    "timestamp": 1700283720.8289928,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "58d97e3b-8cac-48e5-94e1-d73d4c6f56db",
+    "from_account": "MXH10001",
+    "to_account": "SRC17261",
+    "amount": 3164.66,
+    "channel": "WIRE",
+    "timestamp": 1700291714.3390975,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b185c76c-3594-46b2-b3ee-e743074db088",
+    "from_account": "MUL36224",
+    "to_account": "MUL88569",
+    "amount": 4414.35,
+    "channel": "ATM",
+    "timestamp": 1700004011.2165883,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e0339856-2769-4f2d-afd9-913bec73a0a6",
+    "from_account": "MXM10015",
+    "to_account": "EXT85354",
+    "amount": 1053.3,
+    "channel": "ATM",
+    "timestamp": 1700263623.8100545,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d7f7f0a0-25c9-4d0b-82d7-eaa72c94bcb5",
+    "from_account": "MXM10014",
+    "to_account": "MUL33435",
+    "amount": 408.0,
+    "channel": "CARD",
+    "timestamp": 1700261275.781921,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1325ada3-7031-4dd6-b3b5-c803905736b5",
+    "from_account": "BOT12702",
+    "to_account": "EXT17643",
+    "amount": 168.36,
+    "channel": "ATM",
+    "timestamp": 1700006717.6522598,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ea07345e-7799-4ef1-a687-65b24dcf637b",
+    "from_account": "MXL10011",
+    "to_account": "TGT26561",
+    "amount": 648.59,
+    "channel": "ATM",
+    "timestamp": 1700094984.1502883,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "46bc6a4e-0ab1-421f-8f01-1e090a5ad34d",
+    "from_account": "MXL10024",
+    "to_account": "EXT83037",
+    "amount": 902.28,
+    "channel": "CARD",
+    "timestamp": 1700182212.9256618,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e7875927-2043-40cd-92d4-b2e3fb01841b",
+    "from_account": "MXM10002",
+    "to_account": "LAY10474",
+    "amount": 979.97,
+    "channel": "WIRE",
+    "timestamp": 1700228976.4991841,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5a405843-91e9-4d24-8c3c-bf8873960b36",
+    "from_account": "MXM10021",
+    "to_account": "EXT14189",
+    "amount": 2254.37,
+    "channel": "ACH",
+    "timestamp": 1700281331.6471689,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e79a5eee-fc71-482b-bca3-a8a2d0acba7a",
+    "from_account": "MXH10019",
+    "to_account": "BOT12702",
+    "amount": 4978.87,
+    "channel": "P2P",
+    "timestamp": 1700311671.6587286,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8af9c2fb-ad4f-4a53-ba56-2ff895895d51",
+    "from_account": "MXM10017",
+    "to_account": "TGT88599",
+    "amount": 586.48,
+    "channel": "P2P",
+    "timestamp": 1700270747.8602066,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1a031a19-69f4-4460-bff5-32819f2c3982",
+    "from_account": "BOT12702",
+    "to_account": "EXT83037",
+    "amount": 174.17,
+    "channel": "ACH",
+    "timestamp": 1700006633.0423238,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1435717b-5805-4b1d-b2a7-2722857d0946",
+    "from_account": "MXL10006",
+    "to_account": "EXT14189",
+    "amount": 1009.21,
+    "channel": "WIRE",
+    "timestamp": 1700057444.5114503,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "786a3c64-9770-4b44-8c8e-23eda8b228ec",
+    "from_account": "BOT12702",
+    "to_account": "EXT44708",
+    "amount": 169.92,
+    "channel": "ACH",
+    "timestamp": 1700006689.2108812,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "50ab0af9-9e80-487e-96e1-2984c6f43156",
+    "from_account": "SRC17261",
+    "to_account": "TGT88599",
+    "amount": 504.14,
+    "channel": "P2P",
+    "timestamp": 1700004684.5463464,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d1f8614a-1738-4413-87b1-7224dd035e98",
+    "from_account": "MXH10006",
+    "to_account": "EXT68530",
+    "amount": 2783.21,
+    "channel": "P2P",
+    "timestamp": 1700297165.6943443,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "198b4f96-d0ab-4951-8f9d-16680f7468ee",
+    "from_account": "LAY62415",
+    "to_account": "LAY10474",
+    "amount": 48199.42,
+    "channel": "WIRE",
+    "timestamp": 1700005938.968346,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "536a2d13-33c1-4875-9aa2-6a2d5228bb5a",
+    "from_account": "SRC17261",
+    "to_account": "TGT29718",
+    "amount": 482.43,
+    "channel": "CARD",
+    "timestamp": 1700004694.6934376,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "14148770-4e03-4775-8d42-615253d77d68",
+    "from_account": "MXM10008",
+    "to_account": "TGT48408",
+    "amount": 2048.15,
+    "channel": "ACH",
+    "timestamp": 1700245478.0970583,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9c9af29a-d8ee-4d1e-9cd6-8a231071f3a6",
+    "from_account": "MXH10019",
+    "to_account": "TGT26561",
+    "amount": 3832.18,
+    "channel": "ATM",
+    "timestamp": 1700311879.8708947,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8ef6bb1f-32c3-4305-bae2-b3317c5b67c8",
+    "from_account": "BOT12702",
+    "to_account": "EXT62225",
+    "amount": 193.62,
+    "channel": "WIRE",
+    "timestamp": 1700006693.0706873,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3640a625-b2c9-4d11-98c3-29683f2119a9",
+    "from_account": "MUL67896",
+    "to_account": "MUL88042",
+    "amount": 5000.0,
+    "channel": "ACH",
+    "timestamp": 1700004152.355064,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ea0de392-0846-4efa-af2f-74dd0ca3e0df",
+    "from_account": "MXM10024",
+    "to_account": "TGT48408",
+    "amount": 2303.97,
+    "channel": "WIRE",
+    "timestamp": 1700289867.911138,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9d8aef48-35af-42f9-b6bd-a8411ada129c",
+    "from_account": "MXH10015",
+    "to_account": "MUL88042",
+    "amount": 2220.44,
+    "channel": "ACH",
+    "timestamp": 1700306880.6131198,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "accd3795-17fb-4f5f-9cb2-4685ebb7254a",
+    "from_account": "BOT12702",
+    "to_account": "EXT86088",
+    "amount": 221.52,
+    "channel": "P2P",
+    "timestamp": 1700006622.0397525,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b615fb6a-70d3-4107-927a-6f4a0e6b9634",
+    "from_account": "MXH10002",
+    "to_account": "EXT32577",
+    "amount": 2177.11,
+    "channel": "WIRE",
+    "timestamp": 1700292837.9763043,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "891b9530-cb5b-49e3-8387-bf7691639196",
+    "from_account": "MXM10015",
+    "to_account": "TGT89696",
+    "amount": 564.57,
+    "channel": "ATM",
+    "timestamp": 1700263595.702452,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4e223d85-dc92-4f49-84d6-115388ae53b9",
+    "from_account": "MXM10007",
+    "to_account": "TGT19132",
+    "amount": 1345.74,
+    "channel": "CARD",
+    "timestamp": 1700241896.9363143,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "56b5d83b-e0b7-4a72-9adb-3a93ad88487f",
+    "from_account": "MXH10019",
+    "to_account": "MUL36224",
+    "amount": 4447.32,
+    "channel": "WIRE",
+    "timestamp": 1700311814.2272058,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "fcd7067a-8920-42ea-8ca8-4c1bb0c6a582",
+    "from_account": "MXH10007",
+    "to_account": "TGT99759",
+    "amount": 4883.67,
+    "channel": "ACH",
+    "timestamp": 1700298174.776282,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "02318962-cd87-478f-9f0c-19da37fecb8f",
+    "from_account": "MXM10003",
+    "to_account": "EXT50304",
+    "amount": 2731.2,
+    "channel": "CARD",
+    "timestamp": 1700231184.6161218,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "60cf5d50-310a-4154-ad53-4bf20f8d02c7",
+    "from_account": "MXL10011",
+    "to_account": "EXT50304",
+    "amount": 1298.44,
+    "channel": "CARD",
+    "timestamp": 1700095188.1447206,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "47d049df-91dd-4249-a298-468cb848f11d",
+    "from_account": "MXH10007",
+    "to_account": "EXT62225",
+    "amount": 2845.79,
+    "channel": "ACH",
+    "timestamp": 1700297877.2425778,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7b5a9fdf-5597-4b3d-a978-ae1359385d2b",
+    "from_account": "MXH10019",
+    "to_account": "MUL88042",
+    "amount": 2134.36,
+    "channel": "WIRE",
+    "timestamp": 1700311733.8906643,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9226edaf-92db-4b9d-9853-37e22c956675",
+    "from_account": "MXH10008",
+    "to_account": "TGT72534",
+    "amount": 3009.13,
+    "channel": "P2P",
+    "timestamp": 1700299063.02825,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4b1cdfdf-3fd2-45ec-a73c-ca3981c4da37",
+    "from_account": "MUL88042",
+    "to_account": "MUL33281",
+    "amount": 4670.17,
+    "channel": "CARD",
+    "timestamp": 1700004223.5156093,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "51a8c8d1-3a34-490f-92d7-b107a33decdd",
+    "from_account": "SRC17261",
+    "to_account": "TGT93942",
+    "amount": 474.75,
+    "channel": "ACH",
+    "timestamp": 1700004602.7411373,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b7d85f04-edbc-4e2d-8a1c-402ff0a9137f",
+    "from_account": "MXM10012",
+    "to_account": "SRC67425",
+    "amount": 1960.61,
+    "channel": "P2P",
+    "timestamp": 1700256214.7918296,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1ec88db2-d355-4f12-8e2c-c6b26feaae01",
+    "from_account": "MXM10016",
+    "to_account": "TGT89696",
+    "amount": 1568.86,
+    "channel": "ATM",
+    "timestamp": 1700267108.1593685,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ac0ef32a-4e71-46f1-9c94-d799c8fb78f3",
+    "from_account": "MXM10018",
+    "to_account": "SRC17261",
+    "amount": 1579.17,
+    "channel": "CARD",
+    "timestamp": 1700273340.7942846,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "db41b846-2c8b-4791-b038-5db232e5b370",
+    "from_account": "MXM10021",
+    "to_account": "EXT32577",
+    "amount": 753.6,
+    "channel": "CARD",
+    "timestamp": 1700280822.2086089,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ba31d8e4-8b2e-4582-b057-f56fcd41da14",
+    "from_account": "MXM10020",
+    "to_account": "EXT83037",
+    "amount": 2127.43,
+    "channel": "CARD",
+    "timestamp": 1700278060.4886525,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0edbe6ab-d698-4310-b0f5-92af456c0023",
+    "from_account": "MXM10002",
+    "to_account": "MUL36224",
+    "amount": 1842.35,
+    "channel": "ATM",
+    "timestamp": 1700229186.494488,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "abb33be8-3016-4c6c-b714-082108943399",
+    "from_account": "MXL10003",
+    "to_account": "EXT83037",
+    "amount": 278.84,
+    "channel": "ACH",
+    "timestamp": 1700036448.912133,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "da25d06d-7bb3-4994-8bae-f7cba83e040d",
+    "from_account": "MXH10019",
+    "to_account": "EXT14189",
+    "amount": 3620.96,
+    "channel": "ATM",
+    "timestamp": 1700311583.3740377,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "6e36686c-6f94-49d5-9f20-c2f305237bd1",
+    "from_account": "MXH10017",
+    "to_account": "EXT83037",
+    "amount": 3252.89,
+    "channel": "ATM",
+    "timestamp": 1700308998.367589,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ba231b53-08c7-4316-9ed6-e75984f64623",
+    "from_account": "MUL36224",
+    "to_account": "MUL88569",
+    "amount": 4735.36,
+    "channel": "WIRE",
+    "timestamp": 1700003867.2612715,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4b5c3453-21b6-49ff-9b79-d7dc60fdd8f6",
+    "from_account": "MXM10012",
+    "to_account": "TGT89696",
+    "amount": 2479.52,
+    "channel": "P2P",
+    "timestamp": 1700256391.9491072,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8e5e41b5-3dc1-424f-a00a-cedc3aa2af46",
+    "from_account": "MXH10000",
+    "to_account": "TGT62961",
+    "amount": 4089.68,
+    "channel": "ATM",
+    "timestamp": 1700290964.1702344,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "590c60e8-a658-4e34-a8c4-94154549b698",
+    "from_account": "MXH10002",
+    "to_account": "MUL33435",
+    "amount": 2936.54,
+    "channel": "ACH",
+    "timestamp": 1700292743.5959406,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b8ecf750-f6f1-4352-bba8-ac7d77a73aa0",
+    "from_account": "MXH10009",
+    "to_account": "TGT89696",
+    "amount": 2220.92,
+    "channel": "P2P",
+    "timestamp": 1700300949.444019,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7d92cbac-4b35-4b23-9485-3da1c9f2167d",
+    "from_account": "MXH10012",
+    "to_account": "TGT99759",
+    "amount": 3025.08,
+    "channel": "ACH",
+    "timestamp": 1700303731.481157,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "00f2435f-2289-46ff-84bb-35986aa8edd3",
+    "from_account": "MXL10009",
+    "to_account": "TGT99759",
+    "amount": 1271.4,
+    "channel": "CARD",
+    "timestamp": 1700081653.7443488,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "37a44891-3f98-418e-bec3-6e04d2bd283a",
+    "from_account": "MXM10018",
+    "to_account": "TGT29718",
+    "amount": 1364.57,
+    "channel": "CARD",
+    "timestamp": 1700273571.1250093,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b97d9ceb-3622-4249-8873-a8ce421c87d1",
+    "from_account": "MXM10017",
+    "to_account": "TGT72534",
+    "amount": 2940.8,
+    "channel": "CARD",
+    "timestamp": 1700270205.9309146,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d972b750-e165-441e-87af-6e24135d7b34",
+    "from_account": "MXL10014",
+    "to_account": "TGT26561",
+    "amount": 863.09,
+    "channel": "ACH",
+    "timestamp": 1700116675.0538409,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d590fbdd-b265-44df-a265-2b0bcc7880ef",
+    "from_account": "MXM10022",
+    "to_account": "MUL33281",
+    "amount": 866.02,
+    "channel": "P2P",
+    "timestamp": 1700283611.0739415,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "72abc212-f466-43d9-98ce-e6a2e176f7d1",
+    "from_account": "MXH10008",
+    "to_account": "TGT88599",
+    "amount": 511.64,
+    "channel": "ATM",
+    "timestamp": 1700299387.5396695,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "6585e54a-5d9a-4da1-865f-eef668f17393",
+    "from_account": "MUL62950",
+    "to_account": "MUL59906",
+    "amount": 5000.0,
+    "channel": "WIRE",
+    "timestamp": 1700003612.328442,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "16267a64-d04d-4268-9169-b3dcd2792345",
+    "from_account": "MXH10008",
+    "to_account": "EXT87071",
+    "amount": 2429.37,
+    "channel": "WIRE",
+    "timestamp": 1700299742.740931,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "81e0d5ce-1aa1-46b8-8af6-afdb4bf6bb05",
+    "from_account": "MXH10016",
+    "to_account": "EXT61729",
+    "amount": 4356.87,
+    "channel": "CARD",
+    "timestamp": 1700307929.9490292,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9fd4dd8c-6455-4190-a298-0c22bfe6a4ef",
+    "from_account": "MXH10005",
+    "to_account": "TGT29718",
+    "amount": 4618.64,
+    "channel": "CARD",
+    "timestamp": 1700295831.2345667,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "72cb8100-e3f8-47bd-9a83-e8ff2bad1e68",
+    "from_account": "MXH10011",
+    "to_account": "MUL88569",
+    "amount": 4110.23,
+    "channel": "WIRE",
+    "timestamp": 1700302584.90891,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "21cd0554-2af9-4082-8884-d3d4fad2f38b",
+    "from_account": "MXH10006",
+    "to_account": "BOT12702",
+    "amount": 1392.45,
+    "channel": "ACH",
+    "timestamp": 1700297431.076504,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "07b97e02-e647-40bb-97db-92185dd6da21",
+    "from_account": "MXM10008",
+    "to_account": "MUL36224",
+    "amount": 1279.43,
+    "channel": "P2P",
+    "timestamp": 1700245166.467573,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cb3a4c00-f438-46c4-8959-38c649e1364d",
+    "from_account": "MUL67896",
+    "to_account": "MUL88042",
+    "amount": 4670.17,
+    "channel": "ATM",
+    "timestamp": 1700004211.045723,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4c2844c8-1151-4dbf-a377-bed313a4bd2d",
+    "from_account": "MXH10014",
+    "to_account": "LAY24723",
+    "amount": 3345.93,
+    "channel": "ACH",
+    "timestamp": 1700305904.725681,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bc807069-0647-40a8-a2fd-e9094b7e0bf4",
+    "from_account": "MXM10006",
+    "to_account": "EXT68530",
+    "amount": 2148.2,
+    "channel": "CARD",
+    "timestamp": 1700238290.640311,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2c5c80d2-4a31-4c1b-bfdc-01e4c4ef3eff",
+    "from_account": "MXM10022",
+    "to_account": "LAY96056",
+    "amount": 677.02,
+    "channel": "P2P",
+    "timestamp": 1700283971.9811478,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "db37d406-176d-4b72-a34b-19a07d806867",
+    "from_account": "MXH10018",
+    "to_account": "EXT23121",
+    "amount": 3817.14,
+    "channel": "CARD",
+    "timestamp": 1700310374.6274939,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c24dc90d-2a5b-453b-aa2c-8ab41a0fa3e0",
+    "from_account": "MXM10003",
+    "to_account": "MUL33435",
+    "amount": 2659.47,
+    "channel": "P2P",
+    "timestamp": 1700231319.3801284,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b4343b7f-6975-4fc4-8cb7-24379b5899d9",
+    "from_account": "MXH10013",
+    "to_account": "EXT44708",
+    "amount": 536.69,
+    "channel": "ATM",
+    "timestamp": 1700304862.801799,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "865da43d-0b14-46e6-9b8f-3bed0e00eae1",
+    "from_account": "MUL31077",
+    "to_account": "MUL67896",
+    "amount": 5000.0,
+    "channel": "ATM",
+    "timestamp": 1700004141.3164809,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "dded3ae9-84c3-4472-8635-910806815ebe",
+    "from_account": "MXL10013",
+    "to_account": "TGT26561",
+    "amount": 1380.48,
+    "channel": "CARD",
+    "timestamp": 1700108509.0835855,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e5a1cd96-32a9-493a-b23c-19a37f55acc1",
+    "from_account": "MXM10006",
+    "to_account": "LAY24723",
+    "amount": 2625.73,
+    "channel": "WIRE",
+    "timestamp": 1700238875.446105,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ed91ce3d-ff09-44d5-88b0-0bbf270dec08",
+    "from_account": "MUL59906",
+    "to_account": "MUL36224",
+    "amount": 4735.36,
+    "channel": "WIRE",
+    "timestamp": 1700003815.5130758,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f6349e87-9249-4ea4-8c38-294abf0cc196",
+    "from_account": "MXL10014",
+    "to_account": "TGT65195",
+    "amount": 782.21,
+    "channel": "CARD",
+    "timestamp": 1700116640.020488,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4f24172f-e118-4eb6-872b-20d7167c5444",
+    "from_account": "MXH10019",
+    "to_account": "MUL88569",
+    "amount": 3802.45,
+    "channel": "WIRE",
+    "timestamp": 1700312204.95772,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2882c6d7-0a00-479d-923d-0b91d3c03ac3",
+    "from_account": "BOT12702",
+    "to_account": "EXT61729",
+    "amount": 195.77,
+    "channel": "WIRE",
+    "timestamp": 1700006632.7361727,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ce7149a2-c685-4f41-9ea4-7927aadb80ac",
+    "from_account": "MUL40180",
+    "to_account": "MUL62950",
+    "amount": 4414.35,
+    "channel": "ACH",
+    "timestamp": 1700004120.8423088,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7129fd1f-0132-4c92-a172-11f15c08bdcc",
+    "from_account": "MXL10001",
+    "to_account": "EXT87071",
+    "amount": 870.39,
+    "channel": "ACH",
+    "timestamp": 1700023076.0122783,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "992ce3f4-f635-419f-a6ea-39e22d2d5652",
+    "from_account": "MXM10004",
+    "to_account": "TGT43761",
+    "amount": 2714.77,
+    "channel": "CARD",
+    "timestamp": 1700233647.6502771,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b765213a-ad61-47bf-bc31-34ebb654061c",
+    "from_account": "MXM10005",
+    "to_account": "BOT12702",
+    "amount": 1378.68,
+    "channel": "ATM",
+    "timestamp": 1700235965.0253882,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "735890c1-4ef9-4786-916f-7fa381633c4a",
+    "from_account": "MXM10009",
+    "to_account": "MUL33435",
+    "amount": 2318.45,
+    "channel": "CARD",
+    "timestamp": 1700247607.6229103,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ceb9cd6f-dbd6-4936-8c5b-df006cdec05b",
+    "from_account": "BOT12702",
+    "to_account": "EXT32577",
+    "amount": 178.89,
+    "channel": "ACH",
+    "timestamp": 1700006684.2183342,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d759351f-050a-4630-a7bc-6b220cf5bf21",
+    "from_account": "MXH10003",
+    "to_account": "EXT27126",
+    "amount": 2357.41,
+    "channel": "ACH",
+    "timestamp": 1700294172.6193304,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "883ac521-c10e-4d7d-8cba-1315d121a7df",
+    "from_account": "MXM10006",
+    "to_account": "SRC67425",
+    "amount": 2709.55,
+    "channel": "ATM",
+    "timestamp": 1700238278.2045643,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c69b2e41-6c59-412b-a354-e8e4383e91f6",
+    "from_account": "MXH10015",
+    "to_account": "EXT92103",
+    "amount": 1508.21,
+    "channel": "P2P",
+    "timestamp": 1700306795.605591,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f77527a1-74b5-4e74-8775-12c49ae81069",
+    "from_account": "MXH10004",
+    "to_account": "LAY96056",
+    "amount": 3405.88,
+    "channel": "CARD",
+    "timestamp": 1700295024.1557813,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "191c8aa3-0403-4ba2-a189-f7d8e528fd36",
+    "from_account": "MXM10001",
+    "to_account": "LAY75753",
+    "amount": 1931.43,
+    "channel": "ATM",
+    "timestamp": 1700225689.7067394,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cb977f4a-8cd7-4315-8434-c042f729b325",
+    "from_account": "MXH10018",
+    "to_account": "EXT27126",
+    "amount": 3251.5,
+    "channel": "P2P",
+    "timestamp": 1700310451.5973587,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "747d54de-37af-4290-8eee-74ee3410fea3",
+    "from_account": "MXH10008",
+    "to_account": "MUL88569",
+    "amount": 1088.73,
+    "channel": "WIRE",
+    "timestamp": 1700299237.3133838,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "00fc141e-b072-4a04-b284-2d92e27a5639",
+    "from_account": "MXL10006",
+    "to_account": "EXT70400",
+    "amount": 1432.48,
+    "channel": "ATM",
+    "timestamp": 1700057312.0209107,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4fe2c2de-f891-438d-9b83-16840eaadc7b",
+    "from_account": "MXL10005",
+    "to_account": "TGT26561",
+    "amount": 869.99,
+    "channel": "CARD",
+    "timestamp": 1700051067.5228796,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "44fdaf0c-9914-4f39-9738-34962c8dabc8",
+    "from_account": "MXH10002",
+    "to_account": "TGT75948",
+    "amount": 4296.08,
+    "channel": "ACH",
+    "timestamp": 1700292727.6659741,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "97887575-02d6-46d6-87ef-1bf34ff7adba",
+    "from_account": "MXM10004",
+    "to_account": "EXT85354",
+    "amount": 2293.59,
+    "channel": "WIRE",
+    "timestamp": 1700233548.0851862,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2b313962-6576-42de-a3df-ce70fe94c6e4",
+    "from_account": "MXH10016",
+    "to_account": "TGT99759",
+    "amount": 1850.31,
+    "channel": "ATM",
+    "timestamp": 1700307697.193147,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "402894d7-8cb0-48ea-9733-bc6e3f541761",
+    "from_account": "MXL10016",
+    "to_account": "LAY79697",
+    "amount": 1402.26,
+    "channel": "ACH",
+    "timestamp": 1700128338.0866747,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "222f1928-7307-42cc-bb19-6c6ff2e1a166",
+    "from_account": "MXM10021",
+    "to_account": "EXT14189",
+    "amount": 2392.46,
+    "channel": "ATM",
+    "timestamp": 1700281149.535428,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d84f889b-8afc-4099-ad47-2b49e5fab33d",
+    "from_account": "MXL10004",
+    "to_account": "LAY96056",
+    "amount": 1469.72,
+    "channel": "CARD",
+    "timestamp": 1700043182.9018548,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8e9395c4-177d-4ba7-9209-41df7f62a889",
+    "from_account": "MXM10015",
+    "to_account": "LAY75753",
+    "amount": 2242.3,
+    "channel": "ACH",
+    "timestamp": 1700263399.7310078,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8df9ccee-8b0e-43b9-a1ad-f6e451d2b81d",
+    "from_account": "MXM10016",
+    "to_account": "MUL36224",
+    "amount": 1800.61,
+    "channel": "CARD",
+    "timestamp": 1700267241.0811055,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "464ad33f-0600-4e24-a9c1-a33f9c76fef3",
+    "from_account": "MXM10019",
+    "to_account": "TGT43582",
+    "amount": 1049.45,
+    "channel": "CARD",
+    "timestamp": 1700275613.7988033,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "51a59f75-4fba-4ebb-871d-5ad0bc3cac3a",
+    "from_account": "MXL10012",
+    "to_account": "LAY10474",
+    "amount": 1256.25,
+    "channel": "CARD",
+    "timestamp": 1700102801.9773436,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5a533513-c5bd-404d-b44c-8c0dcdff875f",
+    "from_account": "MXH10002",
+    "to_account": "BOT12702",
+    "amount": 3562.36,
+    "channel": "ATM",
+    "timestamp": 1700293160.2883794,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "66b91ec1-cbcb-4da5-9cbe-43e63114a5f0",
+    "from_account": "SRC67425",
+    "to_account": "TGT20502",
+    "amount": 507.19,
+    "channel": "ACH",
+    "timestamp": 1700005108.4654179,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "dd989360-70c3-4b7c-bef6-e9143d9b5819",
+    "from_account": "MXH10016",
+    "to_account": "EXT68530",
+    "amount": 1833.44,
+    "channel": "ATM",
+    "timestamp": 1700307407.6385512,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b2a1b8b3-b477-47ee-a1e9-4c3e52c86c6d",
+    "from_account": "MXH10012",
+    "to_account": "MUL33281",
+    "amount": 1246.09,
+    "channel": "CARD",
+    "timestamp": 1700303514.5481665,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c206ae3f-6258-469a-9f1d-e5eba8a6418f",
+    "from_account": "MXM10011",
+    "to_account": "TGT26561",
+    "amount": 2259.55,
+    "channel": "WIRE",
+    "timestamp": 1700252676.6381106,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4be82091-2718-40ee-85b9-caaf213ba49c",
+    "from_account": "MXM10000",
+    "to_account": "EXT58395",
+    "amount": 491.0,
+    "channel": "CARD",
+    "timestamp": 1700223061.0405374,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5f91afd1-99b4-48c3-8455-05fd39b389b4",
+    "from_account": "MXH10018",
+    "to_account": "EXT26838",
+    "amount": 3348.5,
+    "channel": "WIRE",
+    "timestamp": 1700310157.2240527,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3545d5b0-5510-4f52-ba23-60f5d8b44e06",
+    "from_account": "MXH10002",
+    "to_account": "TGT65195",
+    "amount": 2304.64,
+    "channel": "ACH",
+    "timestamp": 1700292968.8629827,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "81968e34-f74e-4c5f-acd5-c62f38bd43b2",
+    "from_account": "MXH10016",
+    "to_account": "LAY75753",
+    "amount": 1816.76,
+    "channel": "CARD",
+    "timestamp": 1700307890.2783573,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a1672b82-4bd9-442f-a869-ecb39a058376",
+    "from_account": "SRC67425",
+    "to_account": "TGT99759",
+    "amount": 496.71,
+    "channel": "CARD",
+    "timestamp": 1700005178.4304597,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ae325f51-b9f2-44fb-badb-da6f11a3641b",
+    "from_account": "MXM10002",
+    "to_account": "TGT19132",
+    "amount": 2393.06,
+    "channel": "WIRE",
+    "timestamp": 1700228854.9903927,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "fc37b3b9-7d04-4bf1-827c-6e4b3a75de75",
+    "from_account": "BOT12702",
+    "to_account": "EXT26838",
+    "amount": 220.26,
+    "channel": "WIRE",
+    "timestamp": 1700006677.593464,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "efe41c65-9a4a-4d08-9c09-77db2060b61c",
+    "from_account": "MXM10005",
+    "to_account": "LAY10474",
+    "amount": 2273.29,
+    "channel": "ACH",
+    "timestamp": 1700236163.2900856,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cff724ce-8218-41d5-919a-7fbdef5b7825",
+    "from_account": "MXM10009",
+    "to_account": "TGT19132",
+    "amount": 1119.35,
+    "channel": "P2P",
+    "timestamp": 1700247750.6758263,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "31b2193c-64bc-4718-a35b-0eb9aa7a341c",
+    "from_account": "MXH10004",
+    "to_account": "LAY10474",
+    "amount": 1272.16,
+    "channel": "ATM",
+    "timestamp": 1700295150.5547836,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7a59d0f0-eda7-4939-b40d-c900d5f0692b",
+    "from_account": "MXH10012",
+    "to_account": "SRC17261",
+    "amount": 2663.58,
+    "channel": "WIRE",
+    "timestamp": 1700303802.7752426,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9c4fc5fc-a9ae-4a4b-ab52-2e9efbb0012d",
+    "from_account": "LAY79697",
+    "to_account": "LAY36541",
+    "amount": 37701.02,
+    "channel": "ATM",
+    "timestamp": 1700006671.5250742,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ff3b4965-3a79-40e2-b34c-cc81e7f5254d",
+    "from_account": "MXM10011",
+    "to_account": "TGT19132",
+    "amount": 1077.5,
+    "channel": "P2P",
+    "timestamp": 1700252982.1911876,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c0d811a7-f971-4a93-9915-5917dc9138ba",
+    "from_account": "MXH10006",
+    "to_account": "EXT64627",
+    "amount": 4837.11,
+    "channel": "ACH",
+    "timestamp": 1700297352.6259985,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f04f6596-c43d-4861-a5e3-9edb1218273d",
+    "from_account": "MXH10017",
+    "to_account": "TGT27160",
+    "amount": 4798.29,
+    "channel": "ATM",
+    "timestamp": 1700309396.4803178,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5c7c1740-4cb5-4b5f-8577-063ec69bf2be",
+    "from_account": "MUL88569",
+    "to_account": "MUL33435",
+    "amount": 4414.35,
+    "channel": "ATM",
+    "timestamp": 1700004065.7299128,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "35031454-3c45-43b4-9f23-36ec4dd70fe1",
+    "from_account": "MXM10023",
+    "to_account": "EXT23121",
+    "amount": 531.9,
+    "channel": "ACH",
+    "timestamp": 1700287355.6417387,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ffacc78b-d487-41b2-b5bb-eb7abc13c856",
+    "from_account": "MXM10015",
+    "to_account": "EXT85354",
+    "amount": 2081.47,
+    "channel": "ATM",
+    "timestamp": 1700263305.8265164,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "54f3bd0b-50a5-4537-b6e4-63baabca3394",
+    "from_account": "MXM10016",
+    "to_account": "TGT29718",
+    "amount": 1649.7,
+    "channel": "ATM",
+    "timestamp": 1700267310.942132,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e55c2586-9de1-4dd1-8e17-ec413215c72f",
+    "from_account": "MXH10016",
+    "to_account": "TGT88599",
+    "amount": 812.73,
+    "channel": "ACH",
+    "timestamp": 1700307787.2277033,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "85ac4e48-0014-4bb5-b8ed-10defe8b9585",
+    "from_account": "MXH10001",
+    "to_account": "TGT72534",
+    "amount": 1682.92,
+    "channel": "P2P",
+    "timestamp": 1700291898.8673937,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9de0aed0-3e69-4343-b615-cea53bfb7843",
+    "from_account": "MXM10016",
+    "to_account": "MUL31077",
+    "amount": 1220.8,
+    "channel": "ACH",
+    "timestamp": 1700267478.7590353,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a3768578-5802-4207-9e62-67e4c5bf22a1",
+    "from_account": "MXL10000",
+    "to_account": "MUL88569",
+    "amount": 581.96,
+    "channel": "WIRE",
+    "timestamp": 1700018709.8474653,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "54bec266-6819-47ce-b9fb-02cec507d363",
+    "from_account": "MXM10023",
+    "to_account": "EXT85354",
+    "amount": 431.4,
+    "channel": "P2P",
+    "timestamp": 1700287146.8839164,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c44062a2-ca30-4790-b904-70923a1790a5",
+    "from_account": "MUL59906",
+    "to_account": "MUL36224",
+    "amount": 5000.0,
+    "channel": "ACH",
+    "timestamp": 1700003631.1417475,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "61a4bdcd-9894-4db2-bed6-bcbfde572680",
+    "from_account": "MXH10009",
+    "to_account": "EXT64627",
+    "amount": 2820.52,
+    "channel": "CARD",
+    "timestamp": 1700300741.3836954,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "07ae5863-62d2-47f0-90e9-51d748f6fa72",
+    "from_account": "MXL10023",
+    "to_account": "EXT14189",
+    "amount": 1413.7,
+    "channel": "WIRE",
+    "timestamp": 1700174296.3394907,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5bbff695-11ce-4ed2-8997-c41bd4f5ff56",
+    "from_account": "MXH10003",
+    "to_account": "TGT65195",
+    "amount": 4789.86,
+    "channel": "CARD",
+    "timestamp": 1700293972.1774085,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bffd5da0-0349-47a6-a2ed-628513315e37",
+    "from_account": "MXM10012",
+    "to_account": "SRC67425",
+    "amount": 666.18,
+    "channel": "ACH",
+    "timestamp": 1700256483.499862,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f85de675-dafd-427a-b590-a120eabaebc7",
+    "from_account": "MXH10005",
+    "to_account": "MUL36224",
+    "amount": 1310.84,
+    "channel": "WIRE",
+    "timestamp": 1700295759.177416,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f08db103-a25d-44a0-9354-bbaa4555c49b",
+    "from_account": "MXM10016",
+    "to_account": "TGT62961",
+    "amount": 1274.73,
+    "channel": "CARD",
+    "timestamp": 1700267046.5241823,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ea00fc66-5ac9-4ca5-8805-c4248bef5911",
+    "from_account": "MXH10001",
+    "to_account": "MUL88569",
+    "amount": 2281.5,
+    "channel": "ATM",
+    "timestamp": 1700291550.6985517,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1c2717ff-b34d-42b0-b1ca-ae4e7042f097",
+    "from_account": "MXH10015",
+    "to_account": "TGT99759",
+    "amount": 3572.16,
+    "channel": "ACH",
+    "timestamp": 1700306704.9465477,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7f93d13b-8101-49d0-a80a-6a4881bc01b7",
+    "from_account": "BOT12702",
+    "to_account": "EXT49284",
+    "amount": 200.88,
+    "channel": "ACH",
+    "timestamp": 1700006695.551727,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "347247d3-1864-4dbd-b3d7-4c77fc296220",
+    "from_account": "MXH10011",
+    "to_account": "LAY10474",
+    "amount": 2790.24,
+    "channel": "ATM",
+    "timestamp": 1700302463.939959,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "915d80a5-3847-475f-a541-7d4f0ee77a0b",
+    "from_account": "MXH10009",
+    "to_account": "EXT86088",
+    "amount": 1840.21,
+    "channel": "ACH",
+    "timestamp": 1700300307.2679822,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "378361ea-89ae-4e03-9338-16b78571e403",
+    "from_account": "MXL10021",
+    "to_account": "LAY79697",
+    "amount": 1207.88,
+    "channel": "ACH",
+    "timestamp": 1700162665.0728927,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8df01cbc-836d-4cc9-aadb-85c503a04d3c",
+    "from_account": "SRC17261",
+    "to_account": "TGT63516",
+    "amount": 479.99,
+    "channel": "ACH",
+    "timestamp": 1700004716.2237456,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "85e15252-a63b-417b-a810-978e15353b59",
+    "from_account": "MXH10003",
+    "to_account": "EXT27126",
+    "amount": 2755.14,
+    "channel": "ACH",
+    "timestamp": 1700294055.1243205,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "00cbf647-a086-49cf-8f97-60aa7e7d2983",
+    "from_account": "SRC17261",
+    "to_account": "TGT37713",
+    "amount": 477.11,
+    "channel": "P2P",
+    "timestamp": 1700004606.1790283,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c37d45c9-c806-4378-89da-c2727634937d",
+    "from_account": "SRC67425",
+    "to_account": "TGT75948",
+    "amount": 477.91,
+    "channel": "P2P",
+    "timestamp": 1700005154.6129959,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e799dc06-1c84-4e05-9e4b-a30c16dbc435",
+    "from_account": "MXH10009",
+    "to_account": "LAY24723",
+    "amount": 2925.28,
+    "channel": "ATM",
+    "timestamp": 1700300339.9614398,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "29fe0c50-f817-4b80-87f5-c78be5419611",
+    "from_account": "MXL10026",
+    "to_account": "MUL36224",
+    "amount": 1222.06,
+    "channel": "P2P",
+    "timestamp": 1700199126.7493165,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "275f7aa1-4759-4eee-aaa3-095e00f3e1fb",
+    "from_account": "MXL10022",
+    "to_account": "MUL88569",
+    "amount": 1314.45,
+    "channel": "ACH",
+    "timestamp": 1700167976.99759,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "989234bf-0ded-4f5a-a5c5-deca5c82cb11",
+    "from_account": "MXM10015",
+    "to_account": "TGT43761",
+    "amount": 1320.83,
+    "channel": "CARD",
+    "timestamp": 1700263728.332171,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ac73d5cf-6ed6-44fd-8139-3a620c9ca457",
+    "from_account": "MXH10011",
+    "to_account": "EXT35428",
+    "amount": 4420.56,
+    "channel": "P2P",
+    "timestamp": 1700302766.020933,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1ebd7cfe-4d4f-4110-9c2a-1123e50dbffa",
+    "from_account": "MXH10004",
+    "to_account": "EXT50304",
+    "amount": 2917.45,
+    "channel": "WIRE",
+    "timestamp": 1700295064.097751,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "47d5acf4-eacc-415c-9746-c9989e0eb056",
+    "from_account": "MXH10016",
+    "to_account": "TGT88599",
+    "amount": 4789.82,
+    "channel": "WIRE",
+    "timestamp": 1700307365.174893,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3fb09c0b-2205-4c0c-b20b-a8f2559c4494",
+    "from_account": "SRC17261",
+    "to_account": "TGT43761",
+    "amount": 501.92,
+    "channel": "ACH",
+    "timestamp": 1700004631.9048429,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d6c23ecc-7f75-4c69-83a6-0f21612e85b2",
+    "from_account": "MXL10007",
+    "to_account": "BOT12702",
+    "amount": 1463.29,
+    "channel": "WIRE",
+    "timestamp": 1700065671.377982,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "364f94aa-8df6-4928-98a1-5a23134bc373",
+    "from_account": "MXH10018",
+    "to_account": "TGT43582",
+    "amount": 670.38,
+    "channel": "ACH",
+    "timestamp": 1700310650.2992952,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ceeebf03-884a-4da1-9318-d35f15bbc9d4",
+    "from_account": "MXH10016",
+    "to_account": "TGT43582",
+    "amount": 1927.49,
+    "channel": "WIRE",
+    "timestamp": 1700307649.846005,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "436c0f2f-606a-4f0a-99f5-8e6fdf3fa086",
+    "from_account": "MXH10019",
+    "to_account": "EXT92103",
+    "amount": 3227.76,
+    "channel": "WIRE",
+    "timestamp": 1700311705.7462094,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1bf602d6-588d-492c-bbfb-ab71a1350a27",
+    "from_account": "MXH10006",
+    "to_account": "MUL88042",
+    "amount": 2077.24,
+    "channel": "ACH",
+    "timestamp": 1700297518.049258,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "60fd00e2-4310-4a6a-803d-7bc512254525",
+    "from_account": "MXM10009",
+    "to_account": "EXT14189",
+    "amount": 2658.0,
+    "channel": "WIRE",
+    "timestamp": 1700247444.9495392,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9724f3e3-677c-4628-a111-b7342f882962",
+    "from_account": "BOT12702",
+    "to_account": "EXT19905",
+    "amount": 205.87,
+    "channel": "P2P",
+    "timestamp": 1700006643.1807008,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cf4e53e6-d06e-4696-b5de-039c78276cec",
+    "from_account": "MXM10018",
+    "to_account": "LAY24723",
+    "amount": 777.39,
+    "channel": "P2P",
+    "timestamp": 1700273428.1179795,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c075b60e-7a8f-4848-b759-485a4349ba78",
+    "from_account": "MXH10010",
+    "to_account": "EXT53130",
+    "amount": 2847.7,
+    "channel": "WIRE",
+    "timestamp": 1700301565.9537716,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1b148325-2f08-4afe-8616-b22b14b0acbe",
+    "from_account": "LAY10474",
+    "to_account": "LAY24723",
+    "amount": 45630.15,
+    "channel": "WIRE",
+    "timestamp": 1700006040.223111,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4b7c51e8-5a91-45f9-97f6-839cd1e933ad",
+    "from_account": "MXL10024",
+    "to_account": "BOT12702",
+    "amount": 672.27,
+    "channel": "CARD",
+    "timestamp": 1700182375.2867348,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "128bbd3e-059d-40a9-b00b-c0355e543df5",
+    "from_account": "MXH10002",
+    "to_account": "EXT27126",
+    "amount": 3877.23,
+    "channel": "ACH",
+    "timestamp": 1700293151.8803017,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bbf76b7b-88e8-4a38-94a1-25b1d51b5316",
+    "from_account": "MXH10010",
+    "to_account": "MUL31077",
+    "amount": 783.41,
+    "channel": "ATM",
+    "timestamp": 1700301369.8239453,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cf38736b-09a0-4cad-981d-55abb1023edf",
+    "from_account": "MXH10014",
+    "to_account": "MUL33435",
+    "amount": 4972.52,
+    "channel": "P2P",
+    "timestamp": 1700305854.9363253,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "93f60a86-ef48-483e-8a5c-c4ca5ca103b9",
+    "from_account": "MXM10015",
+    "to_account": "MUL36224",
+    "amount": 2010.42,
+    "channel": "P2P",
+    "timestamp": 1700263479.5328953,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "87661181-096b-459c-b703-15620c559a27",
+    "from_account": "MXM10022",
+    "to_account": "EXT68530",
+    "amount": 2594.27,
+    "channel": "CARD",
+    "timestamp": 1700283880.04041,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "80060ccb-cff2-4d2a-847a-0a79b6c7ccbf",
+    "from_account": "MXH10005",
+    "to_account": "TGT72534",
+    "amount": 3178.84,
+    "channel": "ATM",
+    "timestamp": 1700295710.7809167,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a7326fe7-b455-48e0-b146-660a34a42839",
+    "from_account": "MXH10017",
+    "to_account": "EXT70400",
+    "amount": 907.5,
+    "channel": "WIRE",
+    "timestamp": 1700309180.6094081,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b37c5086-9fb6-4175-9d8c-1875f0140fc8",
+    "from_account": "MXL10017",
+    "to_account": "MUL88569",
+    "amount": 949.62,
+    "channel": "P2P",
+    "timestamp": 1700135154.2166936,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cd8ea4c3-8a9d-41de-b5d4-0acff5ebdca0",
+    "from_account": "SRC17261",
+    "to_account": "TGT17316",
+    "amount": 505.18,
+    "channel": "ACH",
+    "timestamp": 1700004669.220169,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "dd2ec62f-e93b-46dd-8b45-6f34106af55f",
+    "from_account": "MXM10002",
+    "to_account": "EXT14189",
+    "amount": 2206.74,
+    "channel": "ATM",
+    "timestamp": 1700229109.1405303,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3e36a200-9c58-4313-87bf-ee5b6b7f0c89",
+    "from_account": "MXH10017",
+    "to_account": "MUL88569",
+    "amount": 1720.06,
+    "channel": "ACH",
+    "timestamp": 1700308953.074347,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b52341cf-893d-4ac6-afe9-3a342a03c14f",
+    "from_account": "MXM10013",
+    "to_account": "EXT27126",
+    "amount": 804.47,
+    "channel": "WIRE",
+    "timestamp": 1700258843.253382,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4de61669-de1d-4739-8597-79185c00a801",
+    "from_account": "MXH10001",
+    "to_account": "BOT12702",
+    "amount": 1580.43,
+    "channel": "ATM",
+    "timestamp": 1700291438.9812684,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "06d0c40d-3816-415c-af86-315e15d39eee",
+    "from_account": "MXH10002",
+    "to_account": "TGT75948",
+    "amount": 3779.06,
+    "channel": "CARD",
+    "timestamp": 1700292711.1953723,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "996ad524-8149-4891-8bc3-3dadd01661e1",
+    "from_account": "MXL10026",
+    "to_account": "EXT87071",
+    "amount": 674.6,
+    "channel": "CARD",
+    "timestamp": 1700199211.031694,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d6baf5c5-5cce-4436-949e-c6000be0ebae",
+    "from_account": "MXH10002",
+    "to_account": "LAY79697",
+    "amount": 4869.75,
+    "channel": "CARD",
+    "timestamp": 1700293183.1344588,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "91db6978-d783-454d-a4ec-fa30e0e7a9f8",
+    "from_account": "MXM10024",
+    "to_account": "TGT99759",
+    "amount": 2854.03,
+    "channel": "WIRE",
+    "timestamp": 1700289781.021964,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8b2cb91e-ca2e-46eb-ac71-f32dcebd86a5",
+    "from_account": "MXM10024",
+    "to_account": "LAY96056",
+    "amount": 2322.96,
+    "channel": "ATM",
+    "timestamp": 1700289588.106857,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d3b794be-b498-4223-af3b-239a6b48b77b",
+    "from_account": "MXH10002",
+    "to_account": "MUL88569",
+    "amount": 2271.25,
+    "channel": "ACH",
+    "timestamp": 1700293083.4896216,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b5c1298e-89bd-42c3-b676-5205dfbdf3c4",
+    "from_account": "MXL10014",
+    "to_account": "SRC67425",
+    "amount": 585.75,
+    "channel": "P2P",
+    "timestamp": 1700116780.8195207,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3a8f8b97-f844-4a8e-be3e-aaec0ecb71c3",
+    "from_account": "MUL59906",
+    "to_account": "MUL36224",
+    "amount": 4414.35,
+    "channel": "P2P",
+    "timestamp": 1700004001.7716846,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5f7cc7c1-7542-4ad1-8f74-7accb9e99299",
+    "from_account": "MXM10021",
+    "to_account": "TGT88599",
+    "amount": 857.69,
+    "channel": "P2P",
+    "timestamp": 1700281773.200102,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "803b5d33-a21b-40a0-badf-2e23bfbb8822",
+    "from_account": "MXH10000",
+    "to_account": "MUL33435",
+    "amount": 895.25,
+    "channel": "ACH",
+    "timestamp": 1700290456.0381045,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1c42246b-3798-43cc-b44c-8cf76569eba0",
+    "from_account": "MXH10017",
+    "to_account": "MUL36224",
+    "amount": 974.06,
+    "channel": "CARD",
+    "timestamp": 1700309453.7592535,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f928daad-4add-4797-95a1-95ac1925992e",
+    "from_account": "MXM10001",
+    "to_account": "EXT58395",
+    "amount": 2833.49,
+    "channel": "ATM",
+    "timestamp": 1700225487.4485707,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "23c3098b-4d7a-4f3b-8cc2-e07ef311dbbb",
+    "from_account": "MXM10020",
+    "to_account": "MUL36224",
+    "amount": 1426.24,
+    "channel": "P2P",
+    "timestamp": 1700278355.0073068,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "49e715ae-0771-45dd-ae5d-607f49d1fdd1",
+    "from_account": "MXL10017",
+    "to_account": "EXT61729",
+    "amount": 928.77,
+    "channel": "WIRE",
+    "timestamp": 1700134763.3504062,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2ffdeb6a-9b9b-414f-9144-a9466992446d",
+    "from_account": "MXM10009",
+    "to_account": "TGT89696",
+    "amount": 726.74,
+    "channel": "P2P",
+    "timestamp": 1700247211.8414729,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a8d92b17-fe09-42d9-977c-4e1be027340e",
+    "from_account": "MXH10003",
+    "to_account": "TGT72534",
+    "amount": 2671.45,
+    "channel": "WIRE",
+    "timestamp": 1700294199.4028132,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "589ea1f7-e4d9-429f-93b3-491f9a3240bf",
+    "from_account": "MXL10010",
+    "to_account": "MUL31077",
+    "amount": 941.46,
+    "channel": "ACH",
+    "timestamp": 1700087010.230571,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f0525622-b67b-4e72-88d6-8f7b4fcee628",
+    "from_account": "MXM10022",
+    "to_account": "EXT85354",
+    "amount": 1262.56,
+    "channel": "CARD",
+    "timestamp": 1700283747.755981,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "dac909c3-3d5e-44d6-a170-c2f1b3df7bac",
+    "from_account": "MXM10000",
+    "to_account": "EXT70400",
+    "amount": 1448.8,
+    "channel": "WIRE",
+    "timestamp": 1700223001.079309,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c195bed1-35d3-4289-9f14-06554d477655",
+    "from_account": "MXM10004",
+    "to_account": "TGT62961",
+    "amount": 1063.16,
+    "channel": "CARD",
+    "timestamp": 1700233666.576224,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "224b60b1-0254-463a-b8c8-a91e7fc08f59",
+    "from_account": "MXM10022",
+    "to_account": "TGT43761",
+    "amount": 1784.38,
+    "channel": "CARD",
+    "timestamp": 1700283278.1542978,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2377fcc7-3306-4d71-818a-0d5564e54d2e",
+    "from_account": "MXH10016",
+    "to_account": "TGT88599",
+    "amount": 4028.39,
+    "channel": "P2P",
+    "timestamp": 1700307637.8458152,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b9369c65-2d9f-4b5a-94e4-08e532299d29",
+    "from_account": "MXH10014",
+    "to_account": "EXT86088",
+    "amount": 2209.36,
+    "channel": "CARD",
+    "timestamp": 1700305479.6593807,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3636dcfe-005f-4fc7-9d8d-caf8f41da63a",
+    "from_account": "MXM10019",
+    "to_account": "MUL33435",
+    "amount": 2983.67,
+    "channel": "CARD",
+    "timestamp": 1700275504.8818614,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0301f786-0017-4ac2-8b40-0df503b3b9a3",
+    "from_account": "MXL10002",
+    "to_account": "LAY79697",
+    "amount": 705.63,
+    "channel": "ACH",
+    "timestamp": 1700028235.8327181,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "473d3a68-72cf-48a6-a04f-ecc283393ab8",
+    "from_account": "MXH10003",
+    "to_account": "TGT48408",
+    "amount": 4599.01,
+    "channel": "ATM",
+    "timestamp": 1700294371.7072072,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0984585f-9d01-4b68-873c-6627e0478f7a",
+    "from_account": "MXM10023",
+    "to_account": "MUL33281",
+    "amount": 1589.36,
+    "channel": "CARD",
+    "timestamp": 1700287520.3512492,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b7f67674-c564-4f64-a612-4d28c24db689",
+    "from_account": "MXM10021",
+    "to_account": "MUL31077",
+    "amount": 1368.09,
+    "channel": "ATM",
+    "timestamp": 1700281622.6614344,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f3c2f719-d455-4ed3-b9ad-18ccb6d09475",
+    "from_account": "MXM10006",
+    "to_account": "MUL36224",
+    "amount": 986.87,
+    "channel": "ATM",
+    "timestamp": 1700238689.403384,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d1a52a0f-ba58-4402-88aa-3e448bd51444",
+    "from_account": "SRC67425",
+    "to_account": "TGT67385",
+    "amount": 481.64,
+    "channel": "CARD",
+    "timestamp": 1700005115.4983249,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bd8f5673-6494-4c7d-81ea-5251b4c74427",
+    "from_account": "MXM10012",
+    "to_account": "TGT75948",
+    "amount": 2990.58,
+    "channel": "WIRE",
+    "timestamp": 1700255994.2325506,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "fd40d848-c74a-4264-93e6-13b1e28665d7",
+    "from_account": "MXH10001",
+    "to_account": "LAY24723",
+    "amount": 2104.53,
+    "channel": "ACH",
+    "timestamp": 1700291851.6287751,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "dd3a8de4-1346-40e5-a515-4f9d1434991c",
+    "from_account": "MXH10003",
+    "to_account": "EXT32577",
+    "amount": 4868.31,
+    "channel": "CARD",
+    "timestamp": 1700293627.238592,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "73e58d64-15bd-4831-a6e6-ba7a4c9989ce",
+    "from_account": "SRC67425",
+    "to_account": "TGT72534",
+    "amount": 504.42,
+    "channel": "ACH",
+    "timestamp": 1700005187.321536,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "eb592168-a4e4-4cdf-993c-bf9601a33131",
+    "from_account": "MXL10002",
+    "to_account": "LAY24723",
+    "amount": 885.65,
+    "channel": "ATM",
+    "timestamp": 1700028301.9044583,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "16145f2a-c02a-4013-b5b4-78a5f9879820",
+    "from_account": "MXH10008",
+    "to_account": "MUL33281",
+    "amount": 3258.85,
+    "channel": "CARD",
+    "timestamp": 1700299483.7645905,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "aed9fe91-4c22-4b0f-a8cb-e64c43a737a5",
+    "from_account": "MXH10019",
+    "to_account": "TGT88599",
+    "amount": 4751.23,
+    "channel": "P2P",
+    "timestamp": 1700311741.2650144,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c547ac5d-62d6-4a29-807c-a3e59dbb5c5c",
+    "from_account": "MXM10000",
+    "to_account": "MUL33435",
+    "amount": 698.09,
+    "channel": "ACH",
+    "timestamp": 1700222834.627342,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "49d0b2ac-0aa0-4a36-9d18-b82f536e5661",
+    "from_account": "MXH10009",
+    "to_account": "TGT27160",
+    "amount": 4320.45,
+    "channel": "ATM",
+    "timestamp": 1700300473.549237,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a3053bfd-859e-4d28-a588-7d21f5bc71b4",
+    "from_account": "MXH10007",
+    "to_account": "EXT83037",
+    "amount": 1290.41,
+    "channel": "WIRE",
+    "timestamp": 1700298271.9219196,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7dde2959-dadd-4ae4-848e-31748061d8fe",
+    "from_account": "MXH10006",
+    "to_account": "EXT85354",
+    "amount": 2968.87,
+    "channel": "P2P",
+    "timestamp": 1700296986.4044027,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e081279a-ed7a-4e4c-93f0-992311bd70f1",
+    "from_account": "BOT12702",
+    "to_account": "EXT27126",
+    "amount": 235.03,
+    "channel": "ATM",
+    "timestamp": 1700006673.7980812,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f4cf76a9-0596-4890-911a-fce1d76b4f53",
+    "from_account": "MXH10004",
+    "to_account": "LAY24723",
+    "amount": 1996.44,
+    "channel": "ACH",
+    "timestamp": 1700294990.703381,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1ae61198-ac44-4793-a7a5-645a8d760c0e",
+    "from_account": "MXM10009",
+    "to_account": "LAY96056",
+    "amount": 2960.11,
+    "channel": "CARD",
+    "timestamp": 1700247641.6241746,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b7c3b141-994b-48d5-84f9-d71e47536625",
+    "from_account": "MXM10004",
+    "to_account": "EXT87071",
+    "amount": 2033.72,
+    "channel": "ACH",
+    "timestamp": 1700233390.1099594,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "956b279b-a8f2-4aab-8b3b-33f7f55b0b53",
+    "from_account": "MUL88569",
+    "to_account": "MUL33435",
+    "amount": 4735.36,
+    "channel": "CARD",
+    "timestamp": 1700003876.8243744,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bc90c8e8-c4b4-4553-a6cb-f9ea552f8057",
+    "from_account": "MXM10001",
+    "to_account": "TGT29718",
+    "amount": 2760.47,
+    "channel": "ATM",
+    "timestamp": 1700225704.2531552,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "39f6aab3-301e-4654-b584-9a97ebf067ca",
+    "from_account": "MXH10016",
+    "to_account": "TGT43761",
+    "amount": 4961.64,
+    "channel": "WIRE",
+    "timestamp": 1700307573.7373323,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "de2ed7de-752d-48b0-b9ae-afc09f673f02",
+    "from_account": "MXM10014",
+    "to_account": "EXT83037",
+    "amount": 1876.49,
+    "channel": "P2P",
+    "timestamp": 1700261347.5403423,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5394a68f-3068-45d1-8462-b9290c5e9216",
+    "from_account": "MXH10014",
+    "to_account": "TGT89696",
+    "amount": 1921.62,
+    "channel": "ACH",
+    "timestamp": 1700305664.6631765,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5401cbff-9886-499d-aa9d-41ffa4d9244b",
+    "from_account": "MUL88569",
+    "to_account": "MUL33435",
+    "amount": 5000.0,
+    "channel": "ATM",
+    "timestamp": 1700003675.2774372,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d19897e6-e81d-4670-8dfb-b5f1a96dc3c2",
+    "from_account": "BOT12702",
+    "to_account": "EXT64627",
+    "amount": 196.59,
+    "channel": "CARD",
+    "timestamp": 1700006628.7487628,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f564f15d-a3a0-41bd-b5e8-345490d0105c",
+    "from_account": "MXH10010",
+    "to_account": "MUL36224",
+    "amount": 1815.84,
+    "channel": "ACH",
+    "timestamp": 1700301322.478286,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "edf496fd-2705-47e6-b164-90b7e05123cc",
+    "from_account": "MXL10015",
+    "to_account": "EXT14189",
+    "amount": 346.0,
+    "channel": "ATM",
+    "timestamp": 1700123562.0640259,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c46c9a90-ffe6-46ab-a96f-30e8dc88ac89",
+    "from_account": "MXL10008",
+    "to_account": "TGT19132",
+    "amount": 734.69,
+    "channel": "ATM",
+    "timestamp": 1700072211.6580677,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "258711fa-e80f-4b73-b88a-af3d47e0fea9",
+    "from_account": "MXM10023",
+    "to_account": "EXT35428",
+    "amount": 2412.75,
+    "channel": "CARD",
+    "timestamp": 1700287437.5656154,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cad9615e-0268-4417-b34a-63664ddf4635",
+    "from_account": "MXH10007",
+    "to_account": "MUL88569",
+    "amount": 4990.38,
+    "channel": "ACH",
+    "timestamp": 1700298034.6287754,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ee3c73ef-5581-4ecc-90ab-c38197a46f2f",
+    "from_account": "MXH10008",
+    "to_account": "EXT23121",
+    "amount": 3251.45,
+    "channel": "ATM",
+    "timestamp": 1700299670.9974148,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5cc37b63-60dd-44f3-bc05-372af6ea274f",
+    "from_account": "MXH10011",
+    "to_account": "LAY24723",
+    "amount": 1131.17,
+    "channel": "WIRE",
+    "timestamp": 1700302871.9758425,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0a05c0a8-b5e4-46a8-bfbd-605bcff59333",
+    "from_account": "MXM10022",
+    "to_account": "TGT89696",
+    "amount": 2149.58,
+    "channel": "ATM",
+    "timestamp": 1700283462.9098322,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "222df06a-2acb-4d7c-ab92-d65ff26421a4",
+    "from_account": "MXL10003",
+    "to_account": "TGT99759",
+    "amount": 1456.15,
+    "channel": "CARD",
+    "timestamp": 1700036185.9043646,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b371bbe4-48d4-4211-a34b-d232e0e08bb7",
+    "from_account": "MXH10010",
+    "to_account": "TGT43582",
+    "amount": 3012.85,
+    "channel": "CARD",
+    "timestamp": 1700301726.6796834,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4db7b20e-bfbe-47d8-8026-860b5cec68a7",
+    "from_account": "MXM10006",
+    "to_account": "TGT29718",
+    "amount": 1352.69,
+    "channel": "ATM",
+    "timestamp": 1700238453.8131611,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5cb0710b-f46d-4dc9-873d-56a5a62cdaad",
+    "from_account": "MXH10004",
+    "to_account": "EXT27126",
+    "amount": 3918.39,
+    "channel": "ATM",
+    "timestamp": 1700295122.3545377,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "40d580b3-86a4-4ac0-b93c-991b2fb4e7f3",
+    "from_account": "MXH10019",
+    "to_account": "LAY79697",
+    "amount": 909.26,
+    "channel": "P2P",
+    "timestamp": 1700312091.4324563,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b65ad665-5b53-4453-af6c-c7c3f4e15b97",
+    "from_account": "MXH10008",
+    "to_account": "LAY96056",
+    "amount": 1168.33,
+    "channel": "CARD",
+    "timestamp": 1700299144.1494925,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8a434600-81bf-46bf-a5a5-4716d0662093",
+    "from_account": "MXL10018",
+    "to_account": "SRC67425",
+    "amount": 680.5,
+    "channel": "WIRE",
+    "timestamp": 1700141504.991594,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7802b1fb-4738-42db-8546-00ae04d7779a",
+    "from_account": "MXM10005",
+    "to_account": "TGT75948",
+    "amount": 2628.35,
+    "channel": "CARD",
+    "timestamp": 1700235821.0074246,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8f777353-21b5-4b31-8a08-2ccc47e89166",
+    "from_account": "MXH10005",
+    "to_account": "EXT87071",
+    "amount": 4613.85,
+    "channel": "WIRE",
+    "timestamp": 1700295894.2424276,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "77015d97-d969-48b6-88fc-d8c758cea3a2",
+    "from_account": "MXL10020",
+    "to_account": "TGT62961",
+    "amount": 1184.45,
+    "channel": "WIRE",
+    "timestamp": 1700155304.5248835,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "fe51b7b3-6d6a-48d5-8d07-f501d9e9cd7a",
+    "from_account": "MXH10012",
+    "to_account": "TGT43582",
+    "amount": 2967.23,
+    "channel": "ATM",
+    "timestamp": 1700303291.2185545,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f09c823e-1e8a-4562-8470-645f0ea7767d",
+    "from_account": "MXM10018",
+    "to_account": "LAY10474",
+    "amount": 2529.23,
+    "channel": "CARD",
+    "timestamp": 1700273608.6478193,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "52d2a220-1546-4514-af8d-07745fe09cec",
+    "from_account": "MXM10005",
+    "to_account": "EXT23121",
+    "amount": 1311.82,
+    "channel": "P2P",
+    "timestamp": 1700235655.462753,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "de1b6fd2-baa8-49d0-8ebd-203ee658f697",
+    "from_account": "MUL40180",
+    "to_account": "MUL62950",
+    "amount": 5000.0,
+    "channel": "P2P",
+    "timestamp": 1700003751.9099684,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "74e40ccb-e3e2-4160-b615-63b7d889a4d8",
+    "from_account": "MXL10017",
+    "to_account": "TGT62961",
+    "amount": 337.25,
+    "channel": "P2P",
+    "timestamp": 1700134931.9627829,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0e1687d9-8956-4295-89da-7497d7303d33",
+    "from_account": "MXH10018",
+    "to_account": "SRC17261",
+    "amount": 1591.65,
+    "channel": "P2P",
+    "timestamp": 1700310203.6359587,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8b1b0840-7e2f-477d-aff2-22ea8805e50d",
+    "from_account": "SRC17261",
+    "to_account": "TGT72409",
+    "amount": 502.55,
+    "channel": "CARD",
+    "timestamp": 1700004666.9228687,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9d2b29d1-1684-412f-8a31-43e3d2d74993",
+    "from_account": "MXL10001",
+    "to_account": "TGT62961",
+    "amount": 864.8,
+    "channel": "CARD",
+    "timestamp": 1700022810.5119774,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0f1bd785-0f79-4952-a0cf-1c096915c3c7",
+    "from_account": "MXH10005",
+    "to_account": "EXT86088",
+    "amount": 4009.02,
+    "channel": "ACH",
+    "timestamp": 1700295992.052054,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5ea9cfe4-3ef0-4e43-b56d-16619efea1e8",
+    "from_account": "MXH10003",
+    "to_account": "BOT12702",
+    "amount": 1970.56,
+    "channel": "CARD",
+    "timestamp": 1700293965.1337593,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "dc914345-97fe-4db3-8457-e66150562614",
+    "from_account": "MXH10019",
+    "to_account": "TGT89696",
+    "amount": 4120.93,
+    "channel": "ACH",
+    "timestamp": 1700312028.6359103,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "effd728a-e4d4-4e3f-881f-6b5068a4c48e",
+    "from_account": "MXH10011",
+    "to_account": "EXT53130",
+    "amount": 1401.89,
+    "channel": "ACH",
+    "timestamp": 1700302611.0373063,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e8cc9e7a-8f7e-4c6f-871b-deca32f71964",
+    "from_account": "MXH10003",
+    "to_account": "TGT65195",
+    "amount": 3805.45,
+    "channel": "ACH",
+    "timestamp": 1700293932.1488764,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d1ac7e1f-6820-4922-aaa4-107497e0f8ec",
+    "from_account": "LAY75753",
+    "to_account": "LAY79697",
+    "amount": 39699.33,
+    "channel": "ATM",
+    "timestamp": 1700006433.9122932,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8091830c-3871-43ae-a197-a3a434b55821",
+    "from_account": "MXM10008",
+    "to_account": "TGT89696",
+    "amount": 811.84,
+    "channel": "P2P",
+    "timestamp": 1700245351.5030627,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1201c917-3506-4047-8aee-957e5f6d6b8a",
+    "from_account": "MXH10009",
+    "to_account": "TGT88599",
+    "amount": 4358.17,
+    "channel": "WIRE",
+    "timestamp": 1700300654.512803,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "97c88df0-12df-4cc8-aa68-c42de9a9811b",
+    "from_account": "MXH10000",
+    "to_account": "EXT68530",
+    "amount": 4353.41,
+    "channel": "ATM",
+    "timestamp": 1700290889.2757068,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "351b0489-417c-4648-9803-ca706aa89475",
+    "from_account": "MXH10013",
+    "to_account": "LAY75753",
+    "amount": 3842.08,
+    "channel": "ATM",
+    "timestamp": 1700305064.612842,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "752575b1-bf02-47a5-b534-5dc20baad55b",
+    "from_account": "MUL33281",
+    "to_account": "MUL31077",
+    "amount": 5000.0,
+    "channel": "P2P",
+    "timestamp": 1700004192.8738506,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2e025447-06b3-4766-a935-a8c06a1a9faa",
+    "from_account": "MXM10000",
+    "to_account": "SRC67425",
+    "amount": 1080.05,
+    "channel": "ACH",
+    "timestamp": 1700222908.8610208,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "510f9cec-3b7b-4f72-93b8-875ad19dad06",
+    "from_account": "MXM10011",
+    "to_account": "TGT72534",
+    "amount": 2228.01,
+    "channel": "CARD",
+    "timestamp": 1700252614.4318504,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "dd0e42af-0117-4be3-bf14-a3ea20cd578d",
+    "from_account": "MXH10013",
+    "to_account": "MUL31077",
+    "amount": 3981.88,
+    "channel": "CARD",
+    "timestamp": 1700304926.4860032,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2cd8ee22-f601-4d7b-962b-135888963f5a",
+    "from_account": "MXH10000",
+    "to_account": "EXT14189",
+    "amount": 1068.67,
+    "channel": "WIRE",
+    "timestamp": 1700290832.3829598,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "607322d4-02f1-4570-844a-0916751854e1",
+    "from_account": "MXH10008",
+    "to_account": "EXT35428",
+    "amount": 854.81,
+    "channel": "ATM",
+    "timestamp": 1700299571.2119138,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "fb1c162b-8bdb-4aac-9bdc-4ceec43c21fe",
+    "from_account": "SRC17261",
+    "to_account": "TGT56374",
+    "amount": 483.47,
+    "channel": "ACH",
+    "timestamp": 1700004660.519709,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "afe6a2cc-201e-43a3-9217-bc7214c128d4",
+    "from_account": "MXH10011",
+    "to_account": "EXT64627",
+    "amount": 3032.55,
+    "channel": "ATM",
+    "timestamp": 1700302666.105027,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a82c6a95-8f73-4a88-95ac-7896b2719367",
+    "from_account": "MXH10001",
+    "to_account": "TGT72409",
+    "amount": 4161.17,
+    "channel": "CARD",
+    "timestamp": 1700291628.0128994,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8e476738-8b0d-497a-ab0e-4e7d08583e7c",
+    "from_account": "MXM10021",
+    "to_account": "TGT48408",
+    "amount": 1306.17,
+    "channel": "ATM",
+    "timestamp": 1700281008.9053702,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7f7bcbb5-cd1f-45cd-a0be-6ec14dc5eb9b",
+    "from_account": "MXH10014",
+    "to_account": "MUL33435",
+    "amount": 1143.03,
+    "channel": "WIRE",
+    "timestamp": 1700305392.4756238,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9e4df4d5-7a41-45bb-90af-204b6d4ddf73",
+    "from_account": "MXH10004",
+    "to_account": "MUL36224",
+    "amount": 928.69,
+    "channel": "ATM",
+    "timestamp": 1700295136.0809438,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a71ecd6f-9abd-41f1-a2b1-57fd0153d49d",
+    "from_account": "BOT12702",
+    "to_account": "EXT23782",
+    "amount": 193.23,
+    "channel": "ATM",
+    "timestamp": 1700006704.1509314,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cfd0568c-86d6-4643-877e-c0a706a3066f",
+    "from_account": "MXH10011",
+    "to_account": "MUL31077",
+    "amount": 4208.2,
+    "channel": "WIRE",
+    "timestamp": 1700302793.9832604,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8908281f-a434-4483-b072-c6bec601e960",
+    "from_account": "MXM10013",
+    "to_account": "TGT88599",
+    "amount": 1332.89,
+    "channel": "ACH",
+    "timestamp": 1700258682.6451812,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "71817c58-2b71-4cac-b4d6-7d67908edf74",
+    "from_account": "MXL10024",
+    "to_account": "EXT14189",
+    "amount": 1375.36,
+    "channel": "ATM",
+    "timestamp": 1700182110.2191818,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "86d5a3b9-6032-46d9-8f42-d38b19441b64",
+    "from_account": "MXH10005",
+    "to_account": "TGT37713",
+    "amount": 2838.15,
+    "channel": "WIRE",
+    "timestamp": 1700296203.544783,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d0393c5f-bd8a-4af0-9a79-f3198e4645e6",
+    "from_account": "SRC17261",
+    "to_account": "TGT89696",
+    "amount": 478.74,
+    "channel": "CARD",
+    "timestamp": 1700004705.783591,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f9500eff-93d0-4a18-ad04-bac4d26bfd2b",
+    "from_account": "MXM10021",
+    "to_account": "TGT48408",
+    "amount": 1927.56,
+    "channel": "CARD",
+    "timestamp": 1700281433.8183174,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "6c641cfb-da0d-4c7c-bf5e-034c70c2d7ef",
+    "from_account": "MXM10010",
+    "to_account": "BOT12702",
+    "amount": 1364.1,
+    "channel": "ATM",
+    "timestamp": 1700250450.2061698,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ace4850b-bb58-4af8-9222-c6e1bd4b6775",
+    "from_account": "MXH10017",
+    "to_account": "TGT26561",
+    "amount": 1088.02,
+    "channel": "P2P",
+    "timestamp": 1700309547.9963458,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cdfecea1-146f-412c-9003-041b5a8bd920",
+    "from_account": "MXH10006",
+    "to_account": "MUL36224",
+    "amount": 1018.81,
+    "channel": "CARD",
+    "timestamp": 1700296996.8071744,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d255df45-8456-4ecd-a5ae-75207910def3",
+    "from_account": "MXM10001",
+    "to_account": "EXT23121",
+    "amount": 549.57,
+    "channel": "WIRE",
+    "timestamp": 1700225604.8955328,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "eb9367c1-c571-43cf-be67-2344f5101d1f",
+    "from_account": "MXH10002",
+    "to_account": "MUL33281",
+    "amount": 4724.1,
+    "channel": "CARD",
+    "timestamp": 1700292868.4219937,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d5c77c25-643e-4ba8-b8da-abae2f1735f8",
+    "from_account": "MUL33281",
+    "to_account": "MUL31077",
+    "amount": 4670.17,
+    "channel": "P2P",
+    "timestamp": 1700004239.559302,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "81f4e7a5-6bef-4f99-9355-17e047cac6a0",
+    "from_account": "MXL10026",
+    "to_account": "EXT68530",
+    "amount": 593.72,
+    "channel": "WIRE",
+    "timestamp": 1700199091.751198,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cc88f6ff-c9ec-4a11-b116-6c36e4bfe28d",
+    "from_account": "SRC17261",
+    "to_account": "TGT68061",
+    "amount": 505.22,
+    "channel": "ACH",
+    "timestamp": 1700004620.1169028,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f803018e-a808-48bc-9fe0-cccf8b6be805",
+    "from_account": "MXH10009",
+    "to_account": "EXT58395",
+    "amount": 1486.55,
+    "channel": "WIRE",
+    "timestamp": 1700300525.3869214,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1d552cd3-6c2e-495e-9ba7-43d15104806a",
+    "from_account": "MXH10007",
+    "to_account": "EXT50304",
+    "amount": 3132.41,
+    "channel": "ATM",
+    "timestamp": 1700298312.6464698,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "00398c80-291d-4074-9d55-a4c2006d6ae5",
+    "from_account": "MXH10017",
+    "to_account": "EXT32577",
+    "amount": 4728.44,
+    "channel": "ATM",
+    "timestamp": 1700309062.2056875,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ed6e42ac-4155-4dce-b82b-425be93cc832",
+    "from_account": "MXH10013",
+    "to_account": "TGT43582",
+    "amount": 1735.1,
+    "channel": "WIRE",
+    "timestamp": 1700305050.312472,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5657c694-3675-4864-abc4-a3706e8dc27c",
+    "from_account": "MXH10011",
+    "to_account": "MUL31077",
+    "amount": 3884.26,
+    "channel": "ACH",
+    "timestamp": 1700302542.707384,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "193b4808-1a51-4299-b66b-648e311671d7",
+    "from_account": "MXH10012",
+    "to_account": "EXT61729",
+    "amount": 1859.63,
+    "channel": "WIRE",
+    "timestamp": 1700303658.3593724,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3bb18b49-2f77-427f-a156-d5e1dff17308",
+    "from_account": "SRC17261",
+    "to_account": "TGT81495",
+    "amount": 502.89,
+    "channel": "P2P",
+    "timestamp": 1700004634.5458286,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f127ab1a-cbc4-4cff-aef6-9530be984653",
+    "from_account": "MXH10007",
+    "to_account": "BOT12702",
+    "amount": 4686.17,
+    "channel": "ATM",
+    "timestamp": 1700298046.399026,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "54934f14-ad00-427d-bb7a-a2d781a638bd",
+    "from_account": "MXH10015",
+    "to_account": "EXT68530",
+    "amount": 2793.13,
+    "channel": "ATM",
+    "timestamp": 1700306694.3685994,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "59b90ae2-d133-46c6-ac5b-e3d2fb3273fd",
+    "from_account": "MXH10001",
+    "to_account": "EXT44708",
+    "amount": 564.52,
+    "channel": "ATM",
+    "timestamp": 1700291340.552256,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c522ac75-3132-42d7-a0a4-13b30ebc2cbd",
+    "from_account": "MXM10013",
+    "to_account": "TGT88599",
+    "amount": 1436.37,
+    "channel": "CARD",
+    "timestamp": 1700258889.3790388,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "efc7422f-9d6d-40d7-b936-3dd4c268d86e",
+    "from_account": "MXH10016",
+    "to_account": "EXT61729",
+    "amount": 1188.15,
+    "channel": "P2P",
+    "timestamp": 1700307434.2006,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3f36a932-775f-4ee8-88a7-b41046354500",
+    "from_account": "BOT12702",
+    "to_account": "EXT23121",
+    "amount": 185.73,
+    "channel": "WIRE",
+    "timestamp": 1700006614.0600803,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "414fc522-9676-4b43-b802-27eb2f260fec",
+    "from_account": "MXH10000",
+    "to_account": "EXT50304",
+    "amount": 2847.21,
+    "channel": "WIRE",
+    "timestamp": 1700290511.8657815,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ca493321-f4a6-4826-9084-ba628f70e1f5",
+    "from_account": "MXH10010",
+    "to_account": "EXT58395",
+    "amount": 3277.24,
+    "channel": "ACH",
+    "timestamp": 1700301655.0356395,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "334ece7e-252a-4e4c-9d98-01aac25d0f9f",
+    "from_account": "MXH10017",
+    "to_account": "LAY96056",
+    "amount": 3003.53,
+    "channel": "P2P",
+    "timestamp": 1700309445.9529674,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "135f8805-09cd-44ff-9d9c-f9524e462be4",
+    "from_account": "MXL10020",
+    "to_account": "EXT23121",
+    "amount": 744.09,
+    "channel": "ACH",
+    "timestamp": 1700155482.6910048,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b2dc4e0c-f793-41b8-bd7e-96b635494daf",
+    "from_account": "MXL10025",
+    "to_account": "MUL36224",
+    "amount": 568.28,
+    "channel": "CARD",
+    "timestamp": 1700190280.5348988,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "39b8c3e4-9427-4b93-a570-d730716a2299",
+    "from_account": "SRC67425",
+    "to_account": "TGT19132",
+    "amount": 487.6,
+    "channel": "ACH",
+    "timestamp": 1700005148.8971367,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "fe171fc3-709c-45ed-84c1-0f3c9811a986",
+    "from_account": "BOT12702",
+    "to_account": "EXT35428",
+    "amount": 202.26,
+    "channel": "WIRE",
+    "timestamp": 1700006606.9007924,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3b543f29-3a35-4731-801b-a2428c228ee1",
+    "from_account": "MXH10015",
+    "to_account": "SRC17261",
+    "amount": 1851.81,
+    "channel": "CARD",
+    "timestamp": 1700306571.3878515,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "22059087-dbd1-4a2f-b108-f14bb25eeea1",
+    "from_account": "MXL10010",
+    "to_account": "LAY79697",
+    "amount": 994.46,
+    "channel": "WIRE",
+    "timestamp": 1700087110.1565235,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b502fe15-f45d-43c4-8e54-8650cecce2e4",
+    "from_account": "MXH10018",
+    "to_account": "EXT92103",
+    "amount": 847.83,
+    "channel": "ACH",
+    "timestamp": 1700310267.0936012,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e270a938-4354-4ede-9082-b1e6a215e136",
+    "from_account": "MXM10010",
+    "to_account": "TGT72534",
+    "amount": 2662.97,
+    "channel": "ATM",
+    "timestamp": 1700250511.2813783,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f1d6195e-3671-445b-8fe5-7df929f5b9d8",
+    "from_account": "MXH10003",
+    "to_account": "LAY96056",
+    "amount": 4014.39,
+    "channel": "P2P",
+    "timestamp": 1700294272.6987503,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bf9abc56-44a4-4c75-9400-fa533083dd18",
+    "from_account": "MXM10017",
+    "to_account": "MUL36224",
+    "amount": 1849.35,
+    "channel": "ACH",
+    "timestamp": 1700270554.8000176,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7194cc68-42f8-4ea3-816a-a637d3159a21",
+    "from_account": "BOT12702",
+    "to_account": "EXT70400",
+    "amount": 205.18,
+    "channel": "ACH",
+    "timestamp": 1700006686.9697495,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2232c351-fd20-4acd-a767-8a4a079ced24",
+    "from_account": "MXM10002",
+    "to_account": "TGT88599",
+    "amount": 632.06,
+    "channel": "ACH",
+    "timestamp": 1700228908.4469302,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "793f4b15-be8a-46b2-b5fc-040ec21c7191",
+    "from_account": "MXH10005",
+    "to_account": "EXT92103",
+    "amount": 3494.46,
+    "channel": "ACH",
+    "timestamp": 1700296075.4985256,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3c844e06-b9b9-429c-b801-c2ec056e6290",
+    "from_account": "MXH10005",
+    "to_account": "EXT85354",
+    "amount": 2845.26,
+    "channel": "P2P",
+    "timestamp": 1700296262.3132818,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ea75d8d4-61da-4c19-ae4f-08061686a671",
+    "from_account": "MXM10001",
+    "to_account": "EXT35428",
+    "amount": 2796.29,
+    "channel": "CARD",
+    "timestamp": 1700225805.594968,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a0c72c81-4a66-423d-8205-208131f76fed",
+    "from_account": "MXM10004",
+    "to_account": "TGT75948",
+    "amount": 1331.29,
+    "channel": "WIRE",
+    "timestamp": 1700233522.9269202,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9fab4f9d-5a0e-4607-8f48-2b77610ebf6a",
+    "from_account": "MXH10015",
+    "to_account": "TGT43582",
+    "amount": 1146.88,
+    "channel": "ACH",
+    "timestamp": 1700306595.1496167,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b4cb1e4a-f6e8-48dc-a624-28a7f2dacb3a",
+    "from_account": "MXL10000",
+    "to_account": "LAY79697",
+    "amount": 550.6,
+    "channel": "ATM",
+    "timestamp": 1700018827.3848546,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "50417a32-2eae-4ea4-99b1-0d16c58cb41f",
+    "from_account": "MUL33435",
+    "to_account": "MUL40180",
+    "amount": 4735.36,
+    "channel": "ATM",
+    "timestamp": 1700003919.080138,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "28c6dcd9-390c-41df-82b8-f01720bebdd5",
+    "from_account": "MXM10004",
+    "to_account": "EXT32577",
+    "amount": 900.64,
+    "channel": "P2P",
+    "timestamp": 1700233585.4891164,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5e5e1c14-e7bd-4570-9f6e-c1cada96cf60",
+    "from_account": "MXH10000",
+    "to_account": "EXT14189",
+    "amount": 1834.02,
+    "channel": "ACH",
+    "timestamp": 1700290737.2226186,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e1ab91dd-57c8-46c2-8458-bab9a8e429bd",
+    "from_account": "MXH10016",
+    "to_account": "SRC67425",
+    "amount": 3453.34,
+    "channel": "P2P",
+    "timestamp": 1700307477.6426628,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "089ca2a3-5a3c-47c2-995f-41cf702433b2",
+    "from_account": "MXH10016",
+    "to_account": "EXT68530",
+    "amount": 3549.72,
+    "channel": "ACH",
+    "timestamp": 1700307820.537713,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "175ba592-d62a-4b49-be72-fca3aca69bc8",
+    "from_account": "MXM10003",
+    "to_account": "MUL88569",
+    "amount": 1595.0,
+    "channel": "CARD",
+    "timestamp": 1700231148.5188067,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "587a887b-5bed-461f-99b8-49e9dc33e481",
+    "from_account": "MXH10000",
+    "to_account": "SRC17261",
+    "amount": 3434.62,
+    "channel": "P2P",
+    "timestamp": 1700290699.809371,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "4f6b46e4-e0e9-41ca-aa4b-731fc914ac28",
+    "from_account": "MXH10005",
+    "to_account": "EXT87071",
+    "amount": 4580.33,
+    "channel": "ACH",
+    "timestamp": 1700296138.5257864,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "63179161-8994-4e62-90b2-5b5be1852a38",
+    "from_account": "MXL10009",
+    "to_account": "TGT62961",
+    "amount": 671.34,
+    "channel": "CARD",
+    "timestamp": 1700082021.3282201,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "81c59474-a5c8-4b45-a6c9-6f43ecbe14a2",
+    "from_account": "MXH10000",
+    "to_account": "TGT29718",
+    "amount": 4552.75,
+    "channel": "ACH",
+    "timestamp": 1700290750.8072634,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "069184bd-db70-49df-b016-e4f316f2627c",
+    "from_account": "MXM10005",
+    "to_account": "EXT14189",
+    "amount": 2819.8,
+    "channel": "CARD",
+    "timestamp": 1700236079.0604517,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a7c11a58-052a-4fa1-aef1-af57fa1b01af",
+    "from_account": "MUL36224",
+    "to_account": "MUL88569",
+    "amount": 5000.0,
+    "channel": "P2P",
+    "timestamp": 1700003665.3364408,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7ba1e4df-9975-4b41-8926-7504e7f060f1",
+    "from_account": "MXM10006",
+    "to_account": "MUL33435",
+    "amount": 503.71,
+    "channel": "P2P",
+    "timestamp": 1700238139.39882,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3cdf4388-ce3c-4da6-a96d-90fedc548acb",
+    "from_account": "MXH10015",
+    "to_account": "MUL88569",
+    "amount": 3222.11,
+    "channel": "CARD",
+    "timestamp": 1700306830.6922963,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d0b02fda-8933-4229-a4e3-03830fb9d98a",
+    "from_account": "MXM10013",
+    "to_account": "EXT53130",
+    "amount": 1296.92,
+    "channel": "WIRE",
+    "timestamp": 1700258806.7745297,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3029fa26-5345-4979-a23f-fdc58dc3a141",
+    "from_account": "MXM10023",
+    "to_account": "EXT32577",
+    "amount": 2612.43,
+    "channel": "ATM",
+    "timestamp": 1700287268.6185246,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f2c0988a-7ee4-4580-8637-49261600f1f6",
+    "from_account": "MXM10009",
+    "to_account": "MUL33435",
+    "amount": 1985.69,
+    "channel": "WIRE",
+    "timestamp": 1700247357.3458805,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "87d4d0f7-d7d9-4c31-8d8c-a53d760ed1ff",
+    "from_account": "MXM10017",
+    "to_account": "TGT43582",
+    "amount": 2996.08,
+    "channel": "CARD",
+    "timestamp": 1700270394.4433234,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5f91527d-d8fa-4f7f-afa1-5a61d6059b1d",
+    "from_account": "MXH10004",
+    "to_account": "EXT61729",
+    "amount": 1435.62,
+    "channel": "WIRE",
+    "timestamp": 1700294948.0324821,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ae502cc3-8e90-4ffd-b2b0-49e2e252fca0",
+    "from_account": "MUL62950",
+    "to_account": "MUL59906",
+    "amount": 4735.36,
+    "channel": "CARD",
+    "timestamp": 1700003802.1378665,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a19cffa3-6428-4647-b2d4-5c6afc5ee3a0",
+    "from_account": "MXH10010",
+    "to_account": "TGT89696",
+    "amount": 4851.97,
+    "channel": "ATM",
+    "timestamp": 1700301767.086859,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d3b236ca-169f-4a8e-a900-58dfebc0110f",
+    "from_account": "MXM10017",
+    "to_account": "LAY79697",
+    "amount": 1813.7,
+    "channel": "CARD",
+    "timestamp": 1700270650.2274034,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ad43e668-f9f3-46a3-b1ec-ed0e1634218a",
+    "from_account": "MXH10014",
+    "to_account": "EXT50304",
+    "amount": 3259.5,
+    "channel": "CARD",
+    "timestamp": 1700305983.2861178,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "ee251637-df83-47c0-811c-527ef40370a6",
+    "from_account": "LAY96056",
+    "to_account": "LAY62415",
+    "amount": 50000.0,
+    "channel": "ACH",
+    "timestamp": 1700005770.9670372,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e0fb8ca8-e93e-4e2e-92a4-435ab6569ed5",
+    "from_account": "MXM10020",
+    "to_account": "MUL33435",
+    "amount": 2196.25,
+    "channel": "ACH",
+    "timestamp": 1700278618.250143,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "0dbfd937-a38f-458b-8666-4ea00dc9cf82",
+    "from_account": "MXL10028",
+    "to_account": "MUL31077",
+    "amount": 1107.54,
+    "channel": "ATM",
+    "timestamp": 1700213059.903928,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "cc85a9d4-560e-4c36-8364-74ade7666f8f",
+    "from_account": "MXL10029",
+    "to_account": "EXT27126",
+    "amount": 1217.47,
+    "channel": "CARD",
+    "timestamp": 1700219984.0854216,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "6bf9874c-cb0e-4876-a79b-24ed215239c4",
+    "from_account": "MXM10014",
+    "to_account": "TGT99759",
+    "amount": 599.35,
+    "channel": "ATM",
+    "timestamp": 1700261127.3322845,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "49f9d471-150a-4ab4-a9ee-74087d57eec3",
+    "from_account": "MXH10013",
+    "to_account": "TGT37713",
+    "amount": 4302.59,
+    "channel": "WIRE",
+    "timestamp": 1700304712.1807585,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3962a2b5-8e7c-493f-b52e-86e36f259593",
+    "from_account": "MUL62950",
+    "to_account": "MUL59906",
+    "amount": 4414.35,
+    "channel": "CARD",
+    "timestamp": 1700003985.564642,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "d7fccae5-5b00-4315-bdc1-712c428f080a",
+    "from_account": "BOT12702",
+    "to_account": "EXT85354",
+    "amount": 192.07,
+    "channel": "CARD",
+    "timestamp": 1700006604.336998,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "769ea244-d941-4bbd-a28b-1f750e9606bb",
+    "from_account": "MXH10004",
+    "to_account": "SRC67425",
+    "amount": 2288.11,
+    "channel": "WIRE",
+    "timestamp": 1700295104.478923,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3cc6c590-9b49-4407-bb27-aa472819e553",
+    "from_account": "MXM10019",
+    "to_account": "EXT58395",
+    "amount": 458.46,
+    "channel": "CARD",
+    "timestamp": 1700275911.9722345,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "30328d20-1ed1-4f92-8e5f-228b5d7801a4",
+    "from_account": "MXL10019",
+    "to_account": "MUL31077",
+    "amount": 503.07,
+    "channel": "P2P",
+    "timestamp": 1700147588.090209,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "a0a2679c-b4fe-42b2-816c-44e2f778ec69",
+    "from_account": "MXH10015",
+    "to_account": "TGT75948",
+    "amount": 4717.7,
+    "channel": "P2P",
+    "timestamp": 1700306767.476271,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "347ecc00-0190-4df4-a885-32019ac20036",
+    "from_account": "BOT12702",
+    "to_account": "EXT14189",
+    "amount": 168.69,
+    "channel": "WIRE",
+    "timestamp": 1700006668.7357044,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "891183bc-07ce-4ac0-bd62-d813ca622772",
+    "from_account": "MXM10007",
+    "to_account": "EXT23121",
+    "amount": 2035.6,
+    "channel": "WIRE",
+    "timestamp": 1700242259.2323263,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "bddf2b2a-e3d9-45c5-b9ca-bf3c96387a18",
+    "from_account": "MXH10007",
+    "to_account": "SRC17261",
+    "amount": 2053.25,
+    "channel": "ATM",
+    "timestamp": 1700297961.8433862,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c037901b-8102-43fa-812a-8deb70cbf046",
+    "from_account": "MXH10018",
+    "to_account": "EXT92103",
+    "amount": 4761.95,
+    "channel": "CARD",
+    "timestamp": 1700310357.7821133,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "9ad19936-6310-4eb4-8b38-787268ebb06c",
+    "from_account": "MXM10010",
+    "to_account": "EXT87071",
+    "amount": 440.09,
+    "channel": "ACH",
+    "timestamp": 1700250776.7150831,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "6bc6bfb1-c469-4f8d-9f3b-70d1d44fa918",
+    "from_account": "MXH10012",
+    "to_account": "TGT43582",
+    "amount": 1891.27,
+    "channel": "WIRE",
+    "timestamp": 1700303879.176925,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b1b7651c-cd51-4ea6-bcb6-931d658ec13a",
+    "from_account": "MXH10017",
+    "to_account": "SRC67425",
+    "amount": 986.92,
+    "channel": "WIRE",
+    "timestamp": 1700309611.7858465,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7f5ed199-c589-4e15-82ca-a8a5c43f47a9",
+    "from_account": "MXH10003",
+    "to_account": "EXT64627",
+    "amount": 4100.96,
+    "channel": "ATM",
+    "timestamp": 1700293718.2103145,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "df147c92-31af-4ef8-906b-92679b2407ab",
+    "from_account": "MXH10014",
+    "to_account": "LAY79697",
+    "amount": 1393.41,
+    "channel": "ACH",
+    "timestamp": 1700305565.42227,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "34b3da71-4f45-4a92-9276-9934f7b54972",
+    "from_account": "MXM10008",
+    "to_account": "LAY75753",
+    "amount": 564.54,
+    "channel": "CARD",
+    "timestamp": 1700245405.4858892,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "c8d4df2b-ef80-4fd0-8441-5c5dd7d5c919",
+    "from_account": "MXM10019",
+    "to_account": "LAY96056",
+    "amount": 646.79,
+    "channel": "ACH",
+    "timestamp": 1700275756.8750868,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e59d1dbe-6ba5-48ef-8fa5-fed5da24415b",
+    "from_account": "MXM10021",
+    "to_account": "EXT35428",
+    "amount": 2266.67,
+    "channel": "WIRE",
+    "timestamp": 1700281574.360311,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "808209d4-aa34-4522-95fb-28752e9f8b51",
+    "from_account": "MUL33435",
+    "to_account": "MUL40180",
+    "amount": 5000.0,
+    "channel": "ATM",
+    "timestamp": 1700003707.1875598,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "8f6eb587-1a9c-4577-96ca-9b07873365f8",
+    "from_account": "MXM10007",
+    "to_account": "EXT50304",
+    "amount": 876.71,
+    "channel": "ACH",
+    "timestamp": 1700241998.782992,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f9d767b9-3b57-4a41-8eb3-044d60cf87dc",
+    "from_account": "MXM10003",
+    "to_account": "EXT61729",
+    "amount": 1213.87,
+    "channel": "CARD",
+    "timestamp": 1700231058.870047,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "37966c9a-20b5-4650-ba71-d6b145bcdabf",
+    "from_account": "MXH10019",
+    "to_account": "MUL33281",
+    "amount": 1855.24,
+    "channel": "WIRE",
+    "timestamp": 1700311960.097309,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5d944217-04e4-454e-8abf-12403ee82dfa",
+    "from_account": "BOT12702",
+    "to_account": "EXT58395",
+    "amount": 197.35,
+    "channel": "ATM",
+    "timestamp": 1700006640.2901094,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "74a96f31-bf94-430b-9a7d-3419644ed7c4",
+    "from_account": "MXM10009",
+    "to_account": "TGT26561",
+    "amount": 2945.85,
+    "channel": "ACH",
+    "timestamp": 1700247592.9039075,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f5245fe2-5148-482b-a089-b20df144f779",
+    "from_account": "MXL10027",
+    "to_account": "LAY10474",
+    "amount": 419.93,
+    "channel": "ATM",
+    "timestamp": 1700206446.8873427,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "22d22bdc-17ae-43d8-9f11-e2e8fb447ce4",
+    "from_account": "BOT12702",
+    "to_account": "EXT48688",
+    "amount": 212.09,
+    "channel": "P2P",
+    "timestamp": 1700006619.022008,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1e7d8091-1a3e-4a6a-8177-c4c08c6cecff",
+    "from_account": "MXH10009",
+    "to_account": "MUL88042",
+    "amount": 770.85,
+    "channel": "P2P",
+    "timestamp": 1700300691.7606761,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "17e7c403-894d-4bc2-992f-56ca3ee39b83",
+    "from_account": "MUL88042",
+    "to_account": "MUL33281",
+    "amount": 5000.0,
+    "channel": "WIRE",
+    "timestamp": 1700004183.4100423,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "582023f1-5a34-4e95-94d0-4f04ed928979",
+    "from_account": "MXM10001",
+    "to_account": "LAY96056",
+    "amount": 1716.89,
+    "channel": "ATM",
+    "timestamp": 1700225345.4502573,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "23ef93a8-f019-4f9f-869e-b3f649428ad5",
+    "from_account": "MXH10002",
+    "to_account": "LAY24723",
+    "amount": 1853.99,
+    "channel": "P2P",
+    "timestamp": 1700292662.0948787,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3f0513c7-684b-48a9-953e-8b09aada3337",
+    "from_account": "MXH10018",
+    "to_account": "MUL33435",
+    "amount": 1186.15,
+    "channel": "CARD",
+    "timestamp": 1700310521.891823,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "89d72839-9f0f-42bc-a0d5-706341d7067f",
+    "from_account": "MXM10015",
+    "to_account": "TGT88599",
+    "amount": 2144.6,
+    "channel": "ATM",
+    "timestamp": 1700263266.9227867,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "1d498828-b19a-413d-a1b5-61c8d97ba887",
+    "from_account": "MXM10016",
+    "to_account": "MUL31077",
+    "amount": 2083.49,
+    "channel": "ATM",
+    "timestamp": 1700267077.8708825,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "3b118f5a-40ad-4213-9e96-e387c22774c9",
+    "from_account": "MXH10012",
+    "to_account": "EXT70400",
+    "amount": 1706.86,
+    "channel": "ACH",
+    "timestamp": 1700303598.3205657,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "42d9c48a-b894-4a3f-9bd6-b5d4a6547b3a",
+    "from_account": "MXM10020",
+    "to_account": "TGT62961",
+    "amount": 2283.98,
+    "channel": "P2P",
+    "timestamp": 1700278200.4595957,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "7411aea9-cba9-4b77-b934-4b7878efd26a",
+    "from_account": "MXL10028",
+    "to_account": "TGT75948",
+    "amount": 1327.69,
+    "channel": "CARD",
+    "timestamp": 1700213145.2208505,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b57adaa6-0eb3-4360-b08e-32d5b23b8cd0",
+    "from_account": "MUL33435",
+    "to_account": "MUL40180",
+    "amount": 4414.35,
+    "channel": "ATM",
+    "timestamp": 1700004096.178438,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "2a197520-0df7-427f-a726-2b4b400ba3d9",
+    "from_account": "MXL10022",
+    "to_account": "TGT48408",
+    "amount": 512.59,
+    "channel": "ACH",
+    "timestamp": 1700167849.262515,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "5a77413b-70d8-45b9-b720-4d5049bef109",
+    "from_account": "MUL31077",
+    "to_account": "MUL67896",
+    "amount": 4670.17,
+    "channel": "ACH",
+    "timestamp": 1700004205.7339861,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "78906913-bb4c-4a4e-9b75-43b3e18fdbdf",
+    "from_account": "SRC17261",
+    "to_account": "TGT62961",
+    "amount": 490.05,
+    "channel": "P2P",
+    "timestamp": 1700004645.0423737,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "61b0b892-88c0-4139-a20c-5434e3894a27",
+    "from_account": "MXM10015",
+    "to_account": "TGT43761",
+    "amount": 1436.47,
+    "channel": "WIRE",
+    "timestamp": 1700263214.3264346,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "fc4a8b78-09d8-435d-a372-07185d5482e9",
+    "from_account": "MXM10005",
+    "to_account": "TGT89696",
+    "amount": 2132.75,
+    "channel": "ATM",
+    "timestamp": 1700236139.0028222,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "896dad67-ac4e-40bc-b80c-f6c64b3b576e",
+    "from_account": "MXH10016",
+    "to_account": "TGT27160",
+    "amount": 892.77,
+    "channel": "ACH",
+    "timestamp": 1700307772.869007,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "6234eb66-5e17-4926-82cb-4ecd6f933cc3",
+    "from_account": "MXM10001",
+    "to_account": "TGT99759",
+    "amount": 534.93,
+    "channel": "ATM",
+    "timestamp": 1700225161.8173862,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "f56abe7d-b0ac-4055-a4ee-cd8ed4a66a6e",
+    "from_account": "MXM10006",
+    "to_account": "LAY24723",
+    "amount": 1980.82,
+    "channel": "ACH",
+    "timestamp": 1700238966.4544244,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "b6ff7508-02df-4acf-ab2f-131deab472df",
+    "from_account": "MXH10018",
+    "to_account": "TGT43761",
+    "amount": 3861.42,
+    "channel": "P2P",
+    "timestamp": 1700310571.7484293,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "6506e5dc-44fa-493f-a536-d50de40fc4ee",
+    "from_account": "MXM10001",
+    "to_account": "TGT43582",
+    "amount": 646.47,
+    "channel": "ATM",
+    "timestamp": 1700224975.1638267,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "53d030a9-a35c-4ed7-bdc9-a3b3f6e29363",
+    "from_account": "MXH10007",
+    "to_account": "TGT72409",
+    "amount": 1766.78,
+    "channel": "CARD",
+    "timestamp": 1700297852.3860996,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "6a3c38ba-5bd3-4c33-8758-172073ae856b",
+    "from_account": "MXH10004",
+    "to_account": "MUL36224",
+    "amount": 2880.32,
+    "channel": "ATM",
+    "timestamp": 1700295115.163242,
+    "label": "fraud"
+  },
+  {
+    "txn_id": "e4b95cb3-03c8-4944-abd8-7bdc5c466217",
+    "from_account": "MXM10005",
+    "to_account": "BOT12702",
+    "amount": 628.16,
+    "channel": "WIRE",
+    "timestamp": 1700235551.8924906,
+    "label": "fraud"
+  }
+]

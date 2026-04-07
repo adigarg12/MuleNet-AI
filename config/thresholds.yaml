@@ -1,0 +1,32 @@
+# Risk tier thresholds (score in [0, 1])
+risk_tiers:
+  low:      [0.00, 0.30]   # Normal behaviour
+  medium:   [0.30, 0.60]   # Elevated — monitor
+  high:     [0.60, 0.85]   # Suspicious — review
+  critical: [0.85, 1.00]   # Likely fraud — block / escalate
+
+# Cluster-level flagging
+cluster:
+  min_members:       3       # Ignore tiny clusters
+  min_avg_risk:      0.60    # Flag cluster if average member risk >= this
+  mule_ring_fan_out: 0.70    # Fan-out ratio threshold for mule-ring tag
+  mule_ring_cycle:   true    # Also require cycle detection
+
+# Anomaly model boost
+anomaly:
+  isolation_forest_weight: 0.15   # Added on top of weighted score
+  contamination:            0.05  # Expected fraud fraction in training data
+
+# Streaming / real-time window
+stream:
+  velocity_window_seconds: 600   # 10-minute rolling window for velocity
+  burst_min_txns:          5     # Minimum txns needed to compute burst score
+
+# Real-time pipeline settings
+pipeline:
+  stream_delay_seconds:  0.1    # Delay between replayed transactions
+  retrain_every_n_txns:  50     # Trigger GNN retrain after this many new transactions
+  retrain_epochs:        50     # GNN epochs per incremental retrain (faster than initial 200)
+  alert_threshold:       0.7    # Cluster risk score that triggers a webhook alert
+  alert_ttl_hours:       24     # Re-alert if same cluster still active after this many hours
+  webhook_timeout_secs:  5.0    # HTTP POST timeout for bank webhook

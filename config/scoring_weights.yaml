@@ -1,0 +1,10 @@
+# Risk feature weights — must sum to 1.0
+# Tune these to emphasize different fraud signals
+
+velocity:       0.20   # High transaction rate → strong signal
+fan_out:        0.18   # 1-to-many disbursement pattern (smurfing)
+centrality:     0.15   # Betweenness centrality — bridge nodes
+retention_time: 0.15   # Short hold time indicates pass-through mule
+pagerank:       0.12   # Graph-wide influence / importance
+cross_channel:  0.10   # Jumping between payment channels
+burst_score:    0.10   # Irregular timing / burst of transactions
