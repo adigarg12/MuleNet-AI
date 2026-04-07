@@ -186,3 +186,9 @@ fraud-detection/
 
 For graphs > 10M edges, replace NetworkX with **Neo4j GDS** — all interface
 contracts (feature functions, scorer, API schemas) remain unchanged.
+
+---
+
+## Author
+
+Built by [Aditya Garg](https://github.com/adigarg12)
