@@ -27,6 +27,10 @@ st.markdown("""
 
   *, html, body, [class*="css"] { font-family: 'Inter', sans-serif !important; }
 
+  /* ── Fix Streamlit expander arrow rendering as "arrows_down" text ── */
+  [data-testid="stExpanderToggleIcon"] { display: none !important; }
+  details > summary svg { display: inline !important; }
+
   /* ── App background ── */
   [data-testid="stAppViewContainer"] { background: #0a0e17; }
   [data-testid="stMain"] { background: #0a0e17; }
