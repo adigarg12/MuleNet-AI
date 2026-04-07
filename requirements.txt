@@ -1,3 +1,4 @@
+plotly>=5.18
 networkx>=3.2
 scikit-learn>=1.4
 fastapi>=0.110
